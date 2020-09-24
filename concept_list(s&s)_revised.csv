@@ -1,0 +1,2519 @@
+Required Concept,CUI,Preferred Name
+midazolam,C1351678,Midazolam 2 MG/ML Oral Solution
+,C1126025,Midazolam 2 MG/ML
+,C2920420,2 ML Midazolam 1 MG/ML Prefilled Syringe
+,C3500195,2 ML Midazolam 1 MG/ML Cartridge
+,C4048415,2 ML Midazolam 1 MG/ML Injection
+,C0358428,Midazolam 2 MG/ML Injectable Solution
+,C3857257,2 ML Midazolam 5 MG/ML Prefilled Syringe
+,C0978647,Midazolam 1 MG/ML Injectable Solution
+,C3502910,Midazolam 2 MG/ML Prefilled Syringe
+,C3853826,1 ML Midazolam 5 MG/ML Prefilled Syringe
+,C4048764,2 ML Midazolam 5 MG/ML Injection
+,C4048417,5 ML Midazolam 1 MG/ML Injection
+,C0978649,Midazolam 5 MG/ML Injectable Solution
+,C2980829,1 ML Midazolam 2 MG/ML Prefilled Syringe
+,C4048767,1 ML Midazolam 5 MG/ML Injection
+,C4048414,Midazolam Hydrochloride 1 MG/ML includes Injectable Solution and Injection
+,C4048995,Midazolam 1 MG/ML includes Prefilled Syringe & Cartridge
+,C3853824,"Midazolam 5 MG/ML includes Injectable Solution, 1 & 2 ML Prefilled Syringe"
+,C4271053,Midazolam Hydrochloride/Sodium Chloride 2 MG/1 ML-0.9% Intravenous Solution
+,C4718880,midazolam/ketamine HCl/ondansetron HCl 3 mg-25 mg-2 mg SUBLINGUAL TROCHE
+,C4719128,ketamine/midazolam/ondansetron 25 mg-3 mg-2 mg sublingual tablet
+,C4762530,MIDAZOLAM 3 mg / KETAMINE HYDROCHLORIDE 25 mg / ONDANSETRON HYDROCHLORIDE ANHYDROUS 2 mg SUBLINGUAL TROCHE [MKO Melt Dose Pack]
+paraphernalia,C0680329,drug paraphernalia
+,C1337622,INTRAPERITONEAL ADMIN.SETS-PARAPHERNALIA
+,C1337623,INFUSION SETS-PARAPHERNALIA
+,C3841868,Drug paraphernalia at scene
+,C3841869,Alcohol containers/paraphernalia at scene
+,C0776682,dialysis (peritoneal) kits MISCELL INTRAPERITONEAL ADMIN.SETS-PARAPHERNALIA
+,C0776984,hypodermoclysis set-needles MISCELL INFUSION SETS-PARAPHERNALIA
+,C0776989,intravenous administration set MISCELL INFUSION SETS-PARAPHERNALIA
+,C0777003,intravenous administration extension set MISCELL INFUSION SETS-PARAPHERNALIA
+,C0777007,intravenous piggyback administration set MISCELL INFUSION SETS-PARAPHERNALIA
+,C0777008,intravenous administration extension set with filter MISCELL INFUSION SETS-PARAPHERNALIA
+,C0777014,intravenous catheter MISCELL INFUSION SETS-PARAPHERNALIA
+,C0777038,intravenous catheter kit MISCELL INFUSION SETS-PARAPHERNALIA
+,C0777053,intravenous infusion pump accessory MISCELL INFUSION SETS-PARAPHERNALIA
+,C0777058,intraveous administration set with filter MISCELL INFUSION SETS-PARAPHERNALIA
+,C2342218,infusion set for insulin pump MISCELL INFUSION SETS-PARAPHERNALIA
+,C0776990,"intravenous administration set 21 gauge X 3/4"" MISCELL INFUSION SETS-PARAPHERNALIA"
+,C0776991,"intravenous administration set 23 gauge X 3/4"" MISCELL INFUSION SETS-PARAPHERNALIA"
+,C0776992,"intravenous administration set 25 gauge X 3/4"" MISCELL INFUSION SETS-PARAPHERNALIA"
+,C0777015,"intravenous catheter 24 gauge X 3/4"" MISCELL INFUSION SETS-PARAPHERNALIA"
+,C1876688,subcutaneous administration set 10 mm X 100 cm SUBCUT INFUSION SETS-PARAPHERNALIA
+,C1876689,subcutaneous administration set 10 mm X 110 cm SUBCUT INFUSION SETS-PARAPHERNALIA
+,C1876690,subcutaneous administration set 10 mm X 50 cm SUBCUT INFUSION SETS-PARAPHERNALIA
+,C1876691,subcutaneous administration set 10 mm X 60 cm SUBCUT INFUSION SETS-PARAPHERNALIA
+,C1876692,subcutaneous administration set 10 mm X 70 cm SUBCUT INFUSION SETS-PARAPHERNALIA
+agitation,C0085631,Agitation
+,C1963060,"Agitation, CTCAE 3.0"
+,C4552855,"Agitation, CTCAE 5.0"
+,C0235010,Muscular unrest
+,C0235844,Neonatal agitation
+,C0302807,Agitation mental
+,C0424295,Hyperactive behavior
+,C0476482,Restlessness and agitation
+,C0542200,Restlessness (phenothiazine)
+,C0549254,Agitation aggravated
+,C0700075,Motor restlessness
+,C0740827,AGITATION EXTREME
+,C0858249,Increased agitation
+,C0860611,Physically restless
+,C0865301,Catatonic agitation
+,C0865302,Schizophrenia agitation
+,C0877432,Nocturnal agitation
+,C0919572,Agitation postoperative
+,C0920253,Emergence Delirium
+,C1271077,No psychomotor agitation
+,C2585388,Level of agitation
+,C2712004,Reduced Agitation
+,C3639389,HAMD-17 - Agitation
+,C3640500,HAMD-21 - Agitation
+,C3887611,Restlessness
+convulsions,C0036572,Seizures
+,C4048158,Convulsions
+,C0009952,Febrile Convulsions
+,C0013537,Eclampsia
+,C0014544,Epilepsy
+,C0014549,Tonic-Clonic Epilepsy
+,C0014556,"Epilepsy, Temporal Lobe"
+,C0022333,Jacksonian Seizure
+,C0159020,Convulsions in the newborn
+,C0234533,Generalized seizures
+,C0234535,Clonic Seizures
+,C0234540,Uremic convulsion
+,C0234549,Stress seizure
+,C0234975,Convulsions aggravated
+,C0235097,Withdrawal seizures
+,C0270844,Tonic Seizures
+,C0349245,Dissociative convulsions
+,C0476204,convulsions; infantile
+,C0490011,Other convulsions
+,C0595982,Febrile Convulsion Medications
+,C0751127,Concussive Convulsion
+,C0751494,Convulsive Seizures
+,C0751495,"Seizures, Focal"
+,C0809992,Epilepsy; convulsions
+,C0849771,pregnancy convulsions
+pain severity,C1507013,Pain severity
+,C4085211,Pain Distress Question
+,C1971428,Pain severity quantified; pain present (COA) (ONC)
+,C1971429,Pain severity quantified; no pain present (COA) (ONC)
+,C1508023,pain severity reported
+,C1508029,Pain severity:Score:Pt:^Patient:Qn:Reported.visual analog score
+,C1508030,Pain severity.total:Score:Pt:^Patient:Qn:Observed.FLACC
+,C1508031,Pain severity.face:Find:Pt:^Patient:Ord:Observed.FLACC
+,C1508032,Pain severity.legs:Find:Pt:^Patient:Ord:Observed.FLACC
+,C1508033,Pain severity.activity:Find:Pt:^Patient:Ord:Observed.FLACC
+,C1508034,Pain severity.cry:Find:Pt:^Patient:Ord:Observed.FLACC
+,C1508035,Pain severity.consolability:Find:Pt:^Patient:Ord:Observed.FLACC
+,C2073281,chest pain increasing in severity
+,C2233590,severity of flank pain
+,C2367760,pain severity quantified
+,C2735093,Pain severity descriptive category:Arbitrary:Point in time:^Patient:Ordinal
+,C2735094,Pain severity descriptive category
+,C2736105,Pain severity:Find:Pt:^Patient:Ord:Reported.FPS-R
+,C2737163,Pain severity in last 5D
+,C3173431,Pain severity:Score:Pt:^Patient:Qn:PhenX
+,C3539022,pelvic pain decreasing in severity
+,C3539889,pelvic pain increasing in severity
+,C3641836,Average Severity of Pain
+,C3642057,GCGI - Global Severity of Pain
+,C3829851,HAQ-DI With VAS - Severity of Pain in the Past Week
+diazepam,C4281829,2 ML Diazepam 5 MG/ML Auto-Injector
+,C4764484,2 ML Diazepam 5 MG/ML Prefilled Syringe
+,C2346398,4 ML Diazepam 5 MG/ML Rectal Gel
+homicidal thoughts,C0455204,Homicidal thoughts
+,C1948150,expresses suicidal/homicidal thoughts
+vomiting,C0042963,Vomiting
+,C1963281,"Vomiting, CTCAE"
+,C3898969,Have Been Vomiting
+,C4084766,How Much Distress Vomiting
+,C4084767,Bothered by Vomiting
+,C4084768,Usual Severity Vomiting
+,C4084769,How Often Vomiting
+,C0375548,No vomiting
+,C2129186,vomit containing blood at beginning of vomiting
+,C0014498,Epidemic vomiting syndrome
+,C0018926,Hematemesis
+,C0027498,Nausea and vomiting
+,C0042964,"Vomiting, Anticipatory"
+,C0152164,Cyclical vomiting syndrome (disorder)
+,C0152165,Persistent vomiting
+,C0152517,Viral gastroenteritis
+,C0221151,Projectile vomiting
+,C0232597,Acute vomiting
+,C0232598,Chronic vomiting
+,C0232599,Vomiting bile
+,C0232601,Concealed vomiting
+,C0233757,Psychogenic vomiting
+,C0241706,Feculent vomiting
+,C0267172,Habit vomiting
+,C0269661,Vomiting of pregnancy
+decreased mental status,C0746541,MENTAL STATUS ALTERED RESPONSIVENESS DECREASED
+,C4713693,"Monitor for signs/symptoms of hypovolemic shock (e.g., increased thirst, increased HR, increased SVR, decreased urine output, decreased bowel sounds, decreased peripheral perfusion, altered mental status, or altered respirations)"
+dexamethasone,C1129328,Dexamethasone 3 MG/ML
+,C2683203,{21 (Dexamethasone 1.5 MG Oral Tablet) } Pack
+,C2977976,Dexamethasone 3 MG/ML [Dexium]
+,C1735666,{35 (Dexamethasone 1.5 MG Oral Tablet) } Pack
+,C2725026,Dexamethasone 3 MG/ML Injectable Solution
+,C2977977,Dexamethasone 3 MG/ML Injectable Solution [Dexium]
+,C5145271,3-Alpha-Androstanediol glucuronide^pre dose dexamethasone
+,C2955011,Dexamethasone sodium phosphate 4 MG/ML Injectable Solution
+,C0976120,Dexamethasone 1 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension
+,C1329113,Ciprofloxacin 3 MG/ML / Dexamethasone 1 MG/ML Otic Suspension
+,C1589766,Ciprofloxacin 3 MG/ML / Dexamethasone 1 MG/ML [Ciprodex]
+,C1603670,Dexamethasone 1 MG/ML / Tobramycin 3 MG/ML [Tobradex]
+,C2684385,Dexamethasone 0.5 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension
+,C2706774,Cortisol^3D post dose dexamethasone:SCnc:Pt:Ser/Plas:Qn
+,C2735926,3-Alpha-Androstanediol glucuronide^pre dose dexamethasone:SCnc:Pt:Ser/Plas:Qn
+,C2938017,Dexamethasone 0.5 MG/ML / Tobramycin 3 MG/ML [Tobradex]
+,C4282340,1 ML Dexamethasone phosphate 4 MG/ML Prefilled Syringe
+,C4734218,1 ML Dexamethasone phosphate 10 MG/ML Prefilled Syringe
+,C5145266,3-Alpha-Androstanediol glucuronide^1D post dose dexamethasone
+,C5145268,3-Alpha-Androstanediol glucuronide^2D post dose dexamethasone
+,C5223099,cortisol in serum or plasma 3 days post dose dexamethasone
+,C0710428,Dexamethasone 1 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension [Tobradex]
+,C0710438,Dexamethasone 0.001 MG/MG / Tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobradex]
+,C0888262,"dexamethasone 21-phosphate, copper (+2) salt (2:3), (11beta,16alpha)-isomer"
+,C1329835,Ciprofloxacin 3 MG/ML / Dexamethasone 1 MG/ML Otic Suspension [Ciprodex]
+last known well,C2729240,Iv t-pa initiated within three hours (<= 180 minutes) of time last known well
+,C2729241,Iv t-pa not initiated within three hours (<= 180 minutes) of time last known well for reasons documented by clinician
+,C2729242,"Iv t-pa not initiated within three hours (<= 180 minutes) of time last known well, reason not given"
+abdominal pain,C0000737,Abdominal Pain
+,C0423651,No abdominal pain
+,C4554323,"Abdominal Pain, CTCAE 5"
+,C1394864,"severe; abdominal pain, abdominal rigidity"
+,C0000727,"Abdomen, Acute"
+,C0000729,Abdominal Cramps
+,C0151263,nausea or abdominal pain
+,C0232488,Abdominal colic
+,C0232491,Chronic abdominal pain
+,C0232492,Upper abdominal pain
+,C0232493,Epigastric pain
+,C0232495,Lower abdominal pain
+,C0234246,Rebound tenderness
+,C0235299,Right upper quadrant pain
+,C0238548,abdominal pain radiating to back
+,C0238551,Left lower quadrant pain
+,C0238552,Left upper quadrant pain
+,C0241310,Suprapubic pain
+,C0262419,CHRONIC RUQ ABDOMINAL PAIN
+,C0262527,Intermittent abdominal pain
+,C0262528,INTERMITTENT LLQ ABDOMINAL PAIN
+,C0277969,Abdominal pain through to back
+,C0277970,Abdominal pain worse on motion
+,C0344304,Generalized abdominal pain
+,C0400882,Chronic nonspecific abdominal pain
+epinephrine,C1125084,Epinephrine 2 MG/ML
+,C0703986,Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+,C0711064,Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution [Xylocaine with Epinephrine]
+,C1269685,Epinephrine 0.002 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+,C1585692,1.7 ML Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Cartridge [Octocaine with Epinephrine]
+,C3887542,1 ML Epinephrine 1 MG/ML Injection
+,C3888320,1.8 ML Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Cartridge
+,C3888321,Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Cartridge
+,C4281984,20 ML Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injection
+,C0711071,20 ML Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injection [Xylocaine with Epinephrine]
+,C3465043,1.8 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Cartridge
+,C3465044,1.7 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Cartridge
+,C0711072,1.7 ML Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Cartridge [Xylocaine with Epinephrine]
+,C2701316,Epinephrine Hydrochloride/Sodium Chloride 2 MG/250 ML-0.9% Intravenous Solution
+,C3888121,1.7 ML Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Cartridge [Xylocaine with Epinephrine]
+,C4055647,30 ML Bupivacaine Hydrochloride 5 MG/ML / Epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]
+,C4055650,10 ML Bupivacaine Hydrochloride 5 MG/ML / Epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]
+,C4282205,Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injection [Xylocaine with Epinephrine]
+,C4306161,10 ML Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injection [Xylocaine with Epinephrine]
+,C4306163,30 ML Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 15 MG/ML Injection [Xylocaine with Epinephrine]
+,C4306165,30 ML Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 10 MG/ML Injection [Xylocaine with Epinephrine]
+,C4306167,30 ML Bupivacaine Hydrochloride 2.5 MG/ML / Epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]
+,C4306170,10 ML Bupivacaine Hydrochloride 2.5 MG/ML / Epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]
+,C0358664,Epinephrine 2 MG/ML / Guanethidine 10 MG/ML Ophthalmic Solution
+,C0360026,Epinephrine 0.0125 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution
+pain chest wall,C0008035,Chest wall pain
+,C0476278,Anterior chest wall pain
+,C0742354,CHEST WALL PAIN MUSCULOSKELETAL
+,C0742355,CHEST WALL PAIN PLEURITIC
+,C1963056,"Chest Wall Pain, CTCAE 3.0"
+,C4553184,"Chest Wall Pain, CTCAE 5.0"
+,C0742356,CHEST WALL PAIN SYNDROME CHRONIC
+,C1557431,"Grade 1 Chest Wall Pain, CTCAE"
+,C1557432,"Grade 2 Chest Wall Pain, CTCAE"
+,C1557433,"Grade 3 Chest Wall Pain, CTCAE"
+,C1557434,"Grade 4 Chest Wall Pain, CTCAE"
+,C2231402,anterior wall chest pain with respiration
+,C2073293,chest pain localizing to chest wall in center
+,C2073294,chest pain localizing to chest wall in center anteriorly
+,C2073295,chest pain localizing to chest wall in center posteriorly
+,C2073296,chest pain localizing to chest wall on left
+,C2073297,chest pain localizing to chest wall on left anteriorly
+,C2073298,chest pain localizing to chest wall on left laterally
+,C2073299,chest pain localizing to chest wall on left posteriorly
+,C2073300,chest pain localizing to chest wall on right
+,C2073301,chest pain localizing to right anterior chest wall
+,C2073302,chest pain localizing to chest wall on right laterally
+,C2073303,chest pain localizing to right posterior chest wall
+,C2073304,chest pain localizing to deep within chest wall
+pale,C0030232,Pallor
+,C0554991,Pale color
+,C0678215,Patient observed to be pale
+,C1971630,Pale color saturation
+,C0232720,Pale feces (finding)
+,C0241137,Pallor of skin
+,C0328496,Lycodes pallidus
+,C0328978,Apogon planifrons
+,C0330417,Kalmia polifolia
+,C0333550,Anemic infarct
+,C0427826,Urine: pale
+,C0452464,Pale ale
+,C0566707,Placenta pale
+,C0684912,Pallor of lung
+,C0685934,Pallor of liver
+,C0686533,Pallor of spleen
+,C0857342,Looked pale
+,C0877384,Pale lips
+,C0937908,Echinacea pallida preparation
+,C0998705,Strongylocentrotus pallidus
+,C1006176,Turdus pallidus
+,C1037910,Ptereleotris heteroptera
+,C1300201,Pale red color
+,C1337309,pale catechu
+,C1643318,Litoria pallida
+diazepam,C0992253,Diazepam 1 MG/ML
+,C0976330,Diazepam 5 MG/ML Injectable Solution
+,C4281823,2 ML Diazepam 5 MG/ML Cartridge
+,C0976328,Diazepam 1 MG/ML Oral Solution
+,C0976329,Diazepam 5 MG/ML Oral Solution
+,C1309116,"ECI2 protein, human"
+,C1422782,ECI2 gene
+,C3810519,ECI2 wt Allele
+,C4281828,"Diazepam 5 MG/ML includes Injectable Solution, Cartridge & Auto-Injector"
+,C2346394,0.5 ML Diazepam 5 MG/ML Rectal Gel
+,C4281829,2 ML Diazepam 5 MG/ML Auto-Injector
+,C4764484,2 ML Diazepam 5 MG/ML Prefilled Syringe
+,C5203202,{1 (0.1 ML) (Diazepam 100 MG/ML Nasal Spray [Valtoco]) } Pack [Valtoco 10 MG Dose Kit]
+,C5228600,diazepam 10 MG in 0.1 mL Nasal Spray Dose Kit
+,C5228602,diazepam 5 MG in 0.1 mL Nasal Spray Dose Kit
+,C0355032,Diazepam 10 MG Rectal Suppository
+,C0355713,Diazepam 5 MG/ML Injectable Suspension
+,C0361043,Diazepam 0.5 MG/ML Oral Suspension
+,C0361044,Diazepam 2 MG/ML Oral Suspension
+,C0542885,Diazepam 0.4 MG/ML Oral Solution
+,C0688559,Diazepam 10 MG Oral Tablet
+,C0688561,Diazepam 2 MG Oral Tablet
+,C0688562,Diazepam 5 MG Oral Tablet
+,C1351925,Diazepam 4 MG/ML Enema
+,C1351926,Diazepam 2 MG/ML Enema
+glucagon,C0611807,"glucagon, thiol-Trp(2)"
+,C0912332,Glucagon-Like Peptide 2
+,C1333664,GCG gene
+,C0061362,"glucagon, 2-nitro-4-azidophenylsulfenyl-"
+,C1415106,GLP2R gene
+,C1705879,GCG wt Allele
+,C3864918,GLP-2 Analog
+,C3864927,Glucagon-like Peptide-2 (GLP-2) Antagonists
+,C3864928,Glucagon-like Peptide-2 (GLP-2) Agonists
+,C4019291,Glucagon-Like Peptide-2 Receptor
+,C1121637,glucagon-like peptide-2 (3-33)
+,C1530889,teduglutide
+,C1953226,Somatotropin^2H post dose glucagon:ACnc:Pt:Ser/Plas:Qn
+,C3657884,"GLP2R protein, human"
+,C3864926,Glucagon-like Peptide-2 (GLP-2) Receptor Interactions
+,C4042749,"Glp2r protein, rat"
+,C4042750,"Glp2r protein, mouse"
+,C4760375,Substance with glucagon-like peptide 2 receptor agonist mechanism of action (substance)
+,C4760376,Glucagon-like peptide 2 receptor agonist (disposition)
+,C5195834,Glucagon 3 MG Nasal Powder
+,C0611810,"S-glucagon dimer, Trp-"
+,C0617204,"glucagon, Met-sulfoxide(27)-"
+,C0617735,"glucagon, di-(delta-(5-nitro-2-pyrimidyl)Orn)(17,18)-"
+,C1953225,Somatotropin^2H post dose betaxolol+glucagon:ACnc:Pt:Ser/Plas:Qn
+,C1953229,Somatotropin^2H post dose propranolol+glucagon:ACnc:Pt:Ser/Plas:Qn
+weakness,C3714552,Weakness
+,C0018801,Heart failure
+,C0030552,Paresis
+,C0151786,Muscle Weakness
+,C0232132,Weak arterial pulse
+,C0241700,Voice Fatigue
+,C0424593,Attacks of weakness
+,C0426997,Weakness of sternomastoid
+,C0427053,Weakness present
+,C0427054,Weakness of neck
+,C0427055,Facial Paresis
+,C0427062,Weakness of back
+,C0427068,Monoparesis - leg
+,C0497294,paralysis/weakness
+,C0521532,Diaphragmatic paresis
+,C0542267,Weakness postural
+,C0546190,Palate weakness
+,C0546192,Larynx weakness
+,C0575810,Weakness of hand
+,C0576233,Weakness of foot
+,C0576333,Weakness of toe
+,C0577655,Quadriceps weakness
+,C0581877,Abdominal weakness
+,C0587246,Muscle weakness of limb
+,C0679397,cardiovascular deterioration
+normal saline,C2229560,serum aldosterone measurement after 2 liters of normal saline over 4 hours
+,C2236112,nursing care: intravenous therapy administration flush intravenous cap D5W 1/2 normal saline solution
+dysuria,C0013428,Dysuria
+,C4553955,"Dysuria, CTCAE"
+,C0232857,Psychogenic dysuria
+,C0241705,Difficulty passing urine
+,C0743334,DYSURIA CHRONIC
+,C0743335,DYSURIA INTERMITTENT
+,C0856125,Dysuria aggravated
+,C2143028,psychophysiological dysuria
+,C4028130,positional dysuria
+,C0268723,Dysuria-frequency syndrome
+,C4685109,"Grade 1 Dysuria, CTCAE"
+,C0811520,"Instruct to report discomfort; dysuria; changes in color, consistency, or frequency of vaginal discharge"
+,C2921780,pain during urination (dysuria) seems related to menstrual cycle
+rigidity,C0026837,Muscle Rigidity
+,C0700109,plastic property - rigidity
+,C0011103,Decerebrate State
+,C0035624,Rigor Mortis
+,C0151315,Neck stiffness
+,C0151564,Cogwheel Rigidity
+,C0159066,Abdominal rigidity
+,C0183047,"ANALYZER, RIGIDITY"
+,C0231519,Gegenhalten
+,C0231521,Decorticate Rigidity
+,C0233608,Catatonic Rigidity
+,C0237435,Rigidity (Personality)
+,C0239325,Extensor Rigidity
+,C0239508,Face rigidity
+,C0241503,TRUNK RIGIDITY
+,C0270758,Athetosis with rigidity
+,C0277821,Extrapyramidal Rigidity
+,C0375570,abdominal rigidity in epigastric region
+,C0419109,Exercises for rigidity
+,C0589139,Rigidity of thinking
+,C0730324,Attacks of rigidity
+,C0857143,Marked rigidity
+,C0858564,Rigidity masticatory
+,C0858571,Rigidity bodily
+,C0858572,Rigidity of limbs
+bradycardia,C0428977,Bradycardia
+,C3812171,Bradycardia by ECG Finding
+,C0085610,Sinus bradycardia
+,C0221047,Bradycardia-tachycardia syndrome
+,C0232190,Vagal autonomic bradycardia
+,C0232191,Reflex bradycardia
+,C0410919,Fetal bradycardia
+,C0457251,Baseline bradycardia
+,C0741624,BRADYCARDIA ASYMPTOMATIC
+,C0741625,BRADYCARDIA EPISODE
+,C0741627,BRADYCARDIA SYMPTOMATIC
+,C0745499,Junctional bradycardia
+,C1112488,Neonatal bradycardia
+,C1390587,syncope; bradycardia
+,C1698033,Nodal bradycardia
+,C1960144,ECG: bradycardia
+,C1963175,"Sinus Bradycardia, CTCAE"
+,C2108107,continuous electrocardiogram sinus bradycardia (finding)
+,C2197024,bradycardia by auscultation
+,C2230138,Pulse slow (finding)
+,C2910381,Sinoatrial bradycardia
+,C3274786,Bradycardia Arrest
+,C3553120,Bradycardia (rare)
+,C3842025,Medical-bradycardia
+,C3875145,At risk of bradycardia
+constipation,C0009806,Constipation
+,C1963087,"Constipation, CTCAE"
+,C3641755,Have Constipation
+,C4084722,How Often Constipation
+,C4084723,How Much Distress Constipation
+,C4084724,Usual Severity Constipation
+,C0150019,Simple constipation
+,C0221152,Obstipation
+,C0341559,Psychogenic constipation
+,C0401146,Constipation - functional
+,C0401148,Acute constipation
+,C0401149,Chronic constipation
+,C0729262,Slow transit constipation
+,C0856088,Constipation aggravated
+,C0857123,Iatrogenic constipation
+,C0943868,Constipation:Find:Pt:Gastrointestinal system:Ord:Observed.CCC
+,C0948179,Postoperative constipation
+,C0948532,Constipation prophylaxis
+,C0949135,Other constipation
+,C1268622,At risk for constipation
+,C1300313,Constipation care
+,C1393778,Constipation due to neurogenic bowel
+,C1855664,Severe constipation
+,C2094353,nursing care: nutrition monitoring bowel movement constipation
+,C2107761,constipation with straining
+vaginal bleeding,C0566967,No vaginal blood loss
+,C2979982,Vaginal Hemorrhage
+,C0410997,Perinatal transient vaginal bleeding
+,C0425958,Vaginal introitus bleeding
+,C0460103,Vaginal vault bleeding
+,C0566963,Scanty vaginal bleeding
+,C0566964,Moderate vaginal bleeding
+,C0566965,Profuse vaginal bleeding
+,C0566968,Vaginal bleeding problem
+,C0567444,Non-menstrual vaginal bleeding
+,C0578503,Abnormal vaginal bleeding
+,C0586176,Normal menstrual blood loss
+,C0748248,RECTAL VAGINAL BLEEDING DURATION
+,C0750056,VAGINAL BLEEDING EPISODE
+,C0750057,vaginal bleeding irregular
+,C0750058,VAGINAL BLEEDING NOT PRESENT
+,C0750059,VAGINAL BLEEDING PROLONGED
+,C0878577,Pre-pubertal vaginal bleeding
+,C1277587,Heavy episode of vaginal bleeding
+,C1948088,abnormal bleeding/vaginal discharge
+,C2114287,prepubertal vaginal bleeding
+,C2188172,unexplained vaginal bleeding
+,C3163625,vaginal bleeding during pregnancy
+,C3532677,Discussion about vaginal bleeding
+,C3898918,Have Vaginal Bleeding or Spotting
+cpap,C1568469,3-((5-(6-((3-chlorophenyl)amino)pyrazinyl)-3-pyridinyl)amino)-1-propanol
+oxygen,C0876796,Oxygen Concentrator 3 liter
+,C0842337,"Hyperbaric oxygen therapy, <= 3 hours"
+,C0125007,"L-galactono-1,4-lactone-oxygen 3-oxidoreductase"
+,C0257670,"L-tryptophan 2',3'-oxidase"
+,C0842338,"Hyperbaric oxygen therapy, more than 3 hours"
+,C4709571,"Hyperoxygenate with 100% oxygen for 3 to 5 minutes, as appropriate"
+,C0061031,"gamma-butyrobetaine,2-oxoglutarate dioxygenase"
+,C0530820,"1H-3-hydroxy-4-oxoquinoline 2,4-dioxygenase (decyclizing, CO-forming)"
+,C0530823,"1H-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (decyclizing, CO-forming)"
+,C1151446,procollagen-proline 3-dioxygenase activity
+,C2016140,oxygen concentrator O2 concentration 85% or greater with maximum specified flow rate greater than 3 L/min
+,C2939334,"Complete bilateral noninvasive physiologic studies of upper or lower extremity arteries, 3 or more levels (eg, for lower extremity: ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus segmental blood pressure measurements with bidirectional Doppler waveform recording and analysis, at 3 or more levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus segmental volume plethysmography at 3 or more levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus segmental transcutaneous oxygen tension measurements at 3 or more levels), or single level study with provocative functional maneuvers (eg, measurements with postural provocative tests, or measurements with reactive hyperemia)"
+,C3489036,AVENA SATIVA FLOWERING TOP 3 [hp_X] in 1 mL / EQUISETUM HYEMALE 4 [hp_X] in 1 mL / HYPERICUM PERFORATUM 6 [hp_X] in 1 mL / GLYCYRRHIZA GLABRA 12 [hp_X] in 1 mL / PUERARIA MONTANA VAR. LOBATA ROOT 12 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE 30 [hp_C] in 1 mL / GERMANIUM SESQUIOXIDE 30 [hp_C] in 1 mL / HYDROGEN 30 [hp_C] in 1 mL / OXYGEN 30 [hp_C] in 1 mL / ULMUS RUBRA BARK 6 [hp_X] in 1 mL / WATER 30 [hp_C] in 1 mL ORAL LIQUID [Rehydrate]
+,C3665111,AVENA SATIVA FLOWERING TOP 3 [hp_X] in 1 mL / EQUISETUM HYEMALE 4 [hp_X] in 1 mL / HYPERICUM PERFORATUM 6 [hp_X] in 1 mL / ULMUS RUBRA BARK 6 [hp_X] in 1 mL / GLYCYRRHIZA GLABRA 12 [hp_X] in 1 mL / PUERARIA MONTANA VAR. LOBATA WHOLE 12 [hp_X] in 1 mL / WATER 6 [hp_C] in 1 mL / ADENOSINE TRIPHOSPHATE 30 [hp_C] in 1 mL / GERMANIUM SESQUIOXIDE 30 [hp_C] in 1 mL / HYDROGEN 30 [hp_C] in 1 mL / OXYGEN 30 [hp_C] in 1 mL ORAL LIQUID [REHYDRATE]
+,C3882916,AVENA SATIVA FLOWERING TOP 3 [hp_X] in 1 mL / EQUISETUM HYEMALE 4 [hp_X] in 1 mL / HYPERICUM PERFORATUM 6 [hp_X] in 1 mL / ULMUS RUBRA BARK 6 [hp_X] in 1 mL / GLYCYRRHIZA GLABRA 12 [hp_X] in 1 mL / SILICON DIOXIDE 12 [hp_X] in 1 mL / PUERARIA MONTANA VAR. LOBATA ROOT 8 [hp_C] in 1 mL / WATER 12 [hp_C] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 30 [hp_C] in 1 mL / GERMANIUM SESQUIOXIDE 30 [hp_C] in 1 mL / HYDROGEN 30 [hp_C] in 1 mL / OXYGEN 30 [hp_C] in 1 mL ORAL LIQUID [Rehydrate]
+,C3500444,BLACK CURRANT 3 [hp_X] in 1 mL / VIBURNUM OPULUS BARK 3 [hp_X] in 1 mL / ASPIDOSPERMA QUEBRACHO-BLANCO BARK 5 [hp_X] in 1 mL / ARSENIC TRIIODIDE 6 [hp_X] in 1 mL / BLATTA ORIENTALIS 6 [hp_X] in 1 mL / NAPHTHALENE 6 [hp_X] in 1 mL / SYMPLOCARPUS FOETIDUS ROOT 6 [hp_X] in 1 mL / CINNAMIC ACID 6 [hp_X] in 1 mL / COUMARIN 6 [hp_X] in 1 mL / GALLIC ACID 6 [hp_X] in 1 mL / INDOLE 6 [hp_X] in 1 mL / QUERCETIN 6 [hp_X] in 1 mL / RUTIN 6 [hp_X] in 1 mL / DERMATOPHAGOIDES FARINAE 9 [hp_X] in 1 mL / OXYGEN 12 [hp_X] in 1 mL / MALVIN 12 [hp_C] in 1 mL ORAL LIQUID [Asthma Plus]
+,C4275972,RIBES NIGRUM LEAF 3 [hp_X] in 1 mL / VIBURNUM OPULUS BARK 3 [hp_X] in 1 mL / QUEBRACHO BARK 5 [hp_X] in 1 mL / ARSENIC TRIIODIDE 6 [hp_X] in 1 mL / BLATTA ORIENTALIS 6 [hp_X] in 1 mL / NAPHTHALENE 6 [hp_X] in 1 mL / SYMPLOCARPUS FOETIDUS ROOT 6 [hp_X] in 1 mL / CINNAMIC ACID 6 [hp_X] in 1 mL / COUMARIN 6 [hp_X] in 1 mL / GALLIC ACID 6 [hp_X] in 1 mL / INDOLE 6 [hp_X] in 1 mL / QUERCETIN 6 [hp_X] in 1 mL / RUTIN 6 [hp_X] in 1 mL / DERMATOPHAGOIDES FARINAE 9 [hp_X] in 1 mL / OXYGEN 12 [hp_X] in 1 mL / MALVIN 12 [hp_C] in 1 mL ORAL LIQUID [Asthma Plus]
+,C4723165,RIBES NIGRUM LEAF 3 [hp_X] in 1 mL / VIBURNUM OPULUS BARK 3 [hp_X] in 1 mL / QUEBRACHO BARK 5 [hp_X] in 1 mL / BLATTA ORIENTALIS 6 [hp_X] in 1 mL / SYMPLOCARPUS FOETIDUS ROOT 6 [hp_X] in 1 mL / CINNAMIC ACID 6 [hp_X] in 1 mL / GALLIC ACID 6 [hp_X] in 1 mL / INDOLE 6 [hp_X] in 1 mL / QUERCETIN 6 [hp_X] in 1 mL / RUTIN 6 [hp_X] in 1 mL / ARSENIC TRIIODIDE 8 [hp_X] in 1 mL / NAPHTHALENE 8 [hp_X] in 1 mL / COUMARIN 8 [hp_X] in 1 mL / DERMATOPHAGOIDES FARINAE 9 [hp_X] in 1 mL / OXYGEN 12 [hp_X] in 1 mL / MALVIN 12 [hp_C] in 1 mL ORAL LIQUID [Asthma Plus]
+,C5207424,RIBES NIGRUM LEAF 3 [hp_X] in 1 mL / VIBURNUM OPULUS BARK 3 [hp_X] in 1 mL / QUEBRACHO BARK 5 [hp_X] in 1 mL / BLATTA ORIENTALIS 6 [hp_X] in 1 mL / SYMPLOCARPUS FOETIDUS ROOT 6 [hp_X] in 1 mL / CINNAMIC ACID 6 [hp_X] in 1 mL / GALLIC ACID 6 [hp_X] in 1 mL / INDOLE 6 [hp_X] in 1 mL / QUERCETIN 6 [hp_X] in 1 mL / RUTIN 6 [hp_X] in 1 mL / ARSENIC TRIIODIDE 8 [hp_X] in 1 mL / NAPHTHALENE 8 [hp_X] in 1 mL / COUMARIN 8 [hp_X] in 1 mL / OXYGEN 12 [hp_X] in 1 mL / DERMATOPHAGOIDES FARINAE 9 [hp_C] in 1 mL / MALVIN 12 [hp_C] in 1 mL ORAL LIQUID [Asthma Plus]
+transport,C0001476,Ca(2+)-Transporting ATPase
+,C0526909,Cationic Amino Acid Transporter 2
+,C0600150,Adenine Nucleotide Translocator 2
+,C0757457,multidrug resistance-associated protein 3
+,C1159608,alpha-ketoglutarate transport
+,C1422162,NUTF2 gene
+,C1538686,PNPLA2 gene
+,C1609650,"SLC7A2 protein, human"
+,C2246631,2-aminoethylphosphonate transport
+,C2247816,ethanolamine transport
+,C2753887,glycerol-2-phosphate transport
+,C3822118,oxaloacetate(2-) transmembrane transport
+,C3895427,ferrous iron transmembrane transport
+,C4327353,autoinducer AI-2 transmembrane transport
+,C3822119,2-isopropylmalate(2-) transmembrane transport
+,C0071191,"NUTF2 protein, human"
+,C0765252,"ATSTP2 protein, Arabidopsis"
+,C0969321,Vesicular Glutamate Transport Protein 2
+,C1159457,2-keto-3-deoxygluconate transport
+,C1420164,SLC27A2 gene
+,C1420185,SLC34A1 gene
+,C1425281,SLC38A5 gene
+,C1609364,"Ntf-2 protein, Drosophila"
+,C1824506,TANGO2 gene
+,C2976310,"Ntf2 protein, Xenopus"
+magnesium sulfate,C3887793,2 ML Magnesium Sulfate 500 MG/ML Injection
+,C3887795,10 ML Magnesium Sulfate 500 MG/ML Injection
+,C3888179,100 ML Magnesium Sulfate 40 MG/ML Injection
+,C3888181,50 ML Magnesium Sulfate 40 MG/ML Injection
+,C0707510,50 ML Magnesium Sulfate 500 MG/ML Injection
+,C3887791,20 ML Magnesium Sulfate 500 MG/ML Injection
+,C3888178,1000 ML Magnesium Sulfate 40 MG/ML Injection
+,C0054744,"ammonium, magnesium, manganese, sodium bicarbonate, zinc sulfate drug combination"
+,C0133842,"2,2'-dithio-bis-pyridine-1-oxide magnesium sulfate"
+,C0778280,500 ML Magnesium Sulfate 20 MG/ML Injection
+,C0954610,"dodecyl sulfate, magnesium, sodium salt (4:1:2)"
+,C2723481,Magnesium Sulfate 20 MG/ML Injection
+,C4048860,"MAGNESIUM SULFATE 20 g in 500 mL INTRAVENOUS INJECTION, SOLUTION"
+,C4271082,Dextrose/Magnesium Sulfate 5%-2 GM Intravenous Solution
+,C4292739,Dextrose/Magnesium Sulfate 5%-2 GM/50 ML Intravenous Solution
+,C0054724,Carbostimulin
+,C2926964,2 (16 OZ magnesium sulfate 1.6 GM / potassium sulfate 3.13 GM / sodium sulfate 17.5 GM Oral Solution) Pack
+,C0064237,Kaologeais
+,C4689416,MAGNESIUM SULFATE HEPTAHYDRATE 2 [hp_X] in 100 mL TOPICAL GEL [RECOVERY BALM - COOL HEAT]
+,C4689417,MAGNESIUM SULFATE HEPTAHYDRATE 2 [hp_X] in 100 mL TOPICAL GEL [RECOVERY BALM - ORIGINAL]
+,C4689418,MAGNESIUM SULFATE HEPTAHYDRATE 2 [hp_X] in 100 mL TOPICAL GEL [RECOVERY BALM - ULTRA]
+,C2926965,{2 (480 ML Magnesium Sulfate 0.0277 MEQ/ML / potassium sulfate 0.0374 MEQ/ML / sodium sulfate 0.257 MEQ/ML Oral Solution) } Pack [Suprep Bowel Prep Kit]
+,C3487679,magnesium sulfate 2 [hp_X] in 100 mL / potassium chloride 2 [hp_X] in 100 mL / sodium chloride 2 [hp_X] in 100 mL ORAL SOLUTION/ DROPS [Pleo Chelate]
+,C1657386,dexpanthenol 0.2 MG/ML / Magnesium Sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / Niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / Riboflavin 0.04 MG/ML / Thiamine 0.0333 MG/ML / Vitamin B 12 0.000133 MG/ML / Zinc Sulfate 0.333 MG/ML Oral Solution [Ellis Tonic]
+,C1950792,dexpanthenol 0.2 MG/ML / Magnesium Sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / Niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / Riboflavin 0.04 MG/ML / Thiamine 0.0333 MG/ML / Vitamin B 12 0.000133 MG/ML / Zinc Sulfate 0.333 MG/ML Oral Solution [Eldertonic]
+combative,C0241845,combative
+,C0741454,BEHAVIOR COMBATIVE
+,C1457883,Aggressive reaction
+,C2366927,convulsions followed by combative behavior
+,C2874326,Vascular dementia with combative behavior
+,C3161185,"Dementia, with combative behavior"
+,C3263951,Unspecified dementia with combative behavior
+,C4268195,Major neurocognitive disorder with combative behavior
+,C0878760,Dementia in conditions classified elsewhere with combative behavior
+,C2874332,Dementia in other diseases classified elsewhere with combative behavior
+,C4268199,Major neurocognitive disorder in other diseases classified elsewhere with combative behavior
+,C4534295,"Physical aggression: aggressive or combative to self and others (for example, hits self, throws objects, punches, dangerous maneuvers with wheelchair or other objects)"
+tachycardia,C0039231,Tachycardia
+,C3827868,Tachycardia by ECG Finding
+,C0039235,"Tachycardia, Ectopic Junctional"
+,C0039236,"Tachycardia, Paroxysmal"
+,C0039239,Sinus Tachycardia
+,C0039240,Supraventricular tachycardia
+,C0042514,"Tachycardia, Ventricular"
+,C0221047,Bradycardia-tachycardia syndrome
+,C0232211,Idiojunctional tachycardia
+,C0241324,"TACHYCARDIA, EXERTIONAL"
+,C0242514,"Tachycardia, Reciprocating"
+,C0340468,Sinoatrial node tachycardia
+,C0340471,Atrioventricular tachycardia
+,C0344428,Ventricular Tachycardia by ECG Finding
+,C0392191,Irregular tachycardia
+,C0410918,Fetal tachycardia
+,C0428982,AV junctional (nodal) tachycardia
+,C0457252,Baseline tachycardia
+,C0546959,Atrial tachycardia
+,C0549268,Tachycardia aggravated
+,C0749248,TACHYCARDIA REST
+,C0749250,TACHYCARDIA WITH ECTOPY
+,C0849662,supraventicular tachycardia
+,C0858524,Tachycardia nervous
+,C0877308,Neonatal tachycardia
+rash,C0015230,Exanthema
+,C0302295,Eruptions
+,C0006846,Cutaneous Candidiasis
+,C0011609,Drug Eruptions
+,C0011974,Diaper Rash
+,C0013595,Eczema
+,C0026113,Miliaria
+,C0031256,Petechiae
+,C0033771,Prurigo
+,C0036830,Serum Sickness
+,C0042109,Urticaria
+,C0085641,Pustular rash
+,C0151882,Purpuric rash
+,C0151883,Vesiculobullous rash
+,C0153062,Viral exanthem
+,C0162423,Miliaria Rubra
+,C0162451,Poison Ivy Dermatitis
+,C0162830,"Dermatitis, Phototoxic"
+,C0175167,Acneiform Eruptions
+,C0221201,Macular rash
+,C0221203,Vesicular rash
+,C0221693,JRA rash
+,C0234894,Dermatitis acneiform
+,C0234913,Erythematous rash
+,C0234916,Rash follicular
+morphine,C0968013,3-(2-phenylbenzoyl) morphine
+,C0949361,"Morphine Sulfate (2:1), Anhydrous"
+,C0949362,"Morphine Sulfate (2:1), Pentahydrate"
+,C2730213,Morphine Sulfate 2 MG/ML
+,C4074427,2 ML Morphine Sulfate 1 MG/ML Injection
+,C0070742,pholcodine
+,C0693701,Morphine Sulfate 2 MG/ML Oral Suspension
+,C0694188,paregoric 0.4 MG/ML Oral Solution
+,C0978728,Morphine Sulfate 2 MG/ML Oral Solution
+,C0978742,Morphine sulphate 100mg/50mL injection
+,C0994900,1 ML Morphine Sulfate 8 MG/ML Prefilled Syringe
+,C1321198,1 ML Morphine Sulfate 10 MG/ML Prefilled Syringe
+,C2920422,1 ML Morphine Sulfate 4 MG/ML Prefilled Syringe
+,C3503059,Morphine Sulfate 2 MG/ML Prefilled Syringe
+,C4048840,30 ML Morphine Sulfate 1 MG/ML Injection
+,C4048916,1 ML Morphine Sulfate 10 MG/ML Injection
+,C4048921,10 ML Morphine Sulfate 25 MG/ML Injection
+,C4048926,1 ML Morphine Sulfate 8 MG/ML Cartridge
+,C4048933,1 ML Morphine Sulfate 4 MG/ML Injection
+,C4048935,30 ML Morphine Sulfate 5 MG/ML Injection
+,C4048936,1 ML Morphine Sulfate 5 MG/ML Injection
+,C4048937,50 ML Morphine Sulfate 50 MG/ML Injection
+,C4048996,1 ML Morphine Sulfate 2 MG/ML Cartridge
+,C4049062,1 ML Morphine Sulfate 15 MG/ML Cartridge
+,C4074428,2 ML Morphine Sulfate 0.5 MG/ML Injection
+tripoding,C0454273,Tripod
+decreased visual acuity,C0234632,Reduced visual acuity
+,C0750276,VISUAL ACUITY DECREASED BILATERALLY
+,C0750277,VISUAL ACUITY DECREASED OD
+,C0750278,VISUAL ACUITY DECREASED OS
+,C0750279,VISUAL ACUITY DECREASED UNILATERAL
+,C3277697,"Decreased visual acuity, progressive"
+,C3553696,"Decreased visual acuity, nonprogressive"
+,C3899402,Decreased Uncorrected Visual Acuity
+,C4013041,Decreased visual acuity (rare)
+,C2751771,"Decreased visual acuity, adult-onset"
+,C3278981,"Decreased visual acuity, slowly progressive"
+,C3554187,Decreased visual acuity (in some patients)
+,C3809300,"Decreased visual acuity, rapidly progressive"
+,C3899401,Decreased Visual Acuity with Current Correction
+,C3899404,Decreased best corrected visual acuity
+,C4479721,Decreased visual acuity (in older patients)
+,C5232487,Decreased visual acuity (in early childhood)
+,C1845139,"Decreased visual acuity, in some female carriers"
+,C2938908,Best-corrected distance visual acuity decreased
+,C3552985,Decreased visual acuity in fourth decade of life
+,C3854540,Normal luminance best-corrected visual acuity decreased
+,C3854541,Low luminance best-corrected visual acuity decreased
+,C4229291,"Moderately decreased visual acuity, late-onset"
+,C4230088,Decreased visual acuity from infancy or early childhood
+,C4231171,Decreased best corrected visual acuity (in some patients)
+myalgias,C0231528,Myalgia
+,C0032238,"Pleurodynia, Epidemic"
+,C0221570,Myalgias/Myopathy
+,C0410249,Viral myalgia
+,C2674035,"Myalgia, episodic"
+,C2232738,sudden onset of generalized muscle aches
+shortness of breath,C0013404,Dyspnea
+,C2707305,Shortness of breath:-:Point in time:^Patient:-
+,C3274920,Have Shortness of Breath question
+,C4054349,No Shortness of Breath
+,C4084762,Usual Severity Shortness of Breath
+,C4084763,How Often Shortness of Breath
+,C4084764,How Much Distress Shortness of Breath
+,C4553552,Shortness of Breath Visual Analogue Scale
+,C0231807,Dyspnea on exertion
+,C0517527,SHORTNESS OF BREATH NOT PRESENT
+,C0574066,Increasing breathlessness
+,C0743330,Resting Dyspnea
+,C0748641,SHORTNESS OF BREATH ACUTE
+,C0748642,SHORTNESS OF BREATH CHRONIC
+,C0748643,SHORTNESS OF BREATH EPISODE
+,C0748644,SHORTNESS OF BREATH EXTREME
+,C0748646,shortness of breath intermittent
+,C0748647,SHORTNESS OF BREATH NEW ONSET
+,C0748648,SHORTNESS OF BREATH PROGRESSIVE
+,C0748649,shortness of breath rest
+,C0748650,SHORTNESS OF BREATH STABLE CHRONIC
+,C0946383,Shortness of breath with activity
+,C1275492,CLASP shortness of breath score
+,C1963100,"Dyspnea, CTCAE"
+,C3641530,PHQ-15 - Shortness of Breath
+anxiety,C0003467,Anxiety
+,C0003469,Anxiety Disorders
+,C0860603,Anxiety symptoms
+,C1963064,"Anxiety, CTCAE 3.0"
+,C4050613,Anxiety Scale (BASC-2)
+,C4552735,"Anxiety, CTCAE 5.0"
+,C4553381,Anxiety Visual Analogue Scale
+,C0497330,Anxiety disorder/anxiety state
+,C1387807,"anxiety; nocturnal, dream anxiety"
+,C0003476,"Anxiety, Castration"
+,C0003477,Separation Anxiety Disorder
+,C0015726,Fear (Mental Process)
+,C0085380,Dental Anxiety
+,C0150135,Alleviating anxiety
+,C0231397,Anticipatory anxiety
+,C0231401,Mild anxiety
+,C0231402,Moderate anxiety
+,C0232711,Nervous diarrhea
+,C0235107,Anxiety-ridden
+,C0235111,Anxiety complex
+,C0262373,AIDS ANXIETY
+,C0262376,anxiety generalized
+,C0262377,Situational anxiety
+,C0270590,Anxiety hyperventilation
+,C0338908,Mixed anxiety and depressive disorder
+hypertension,C0020538,Hypertensive disease
+,C1963138,"Hypertension, CTCAE"
+,C2748577,No hypertension
+,C0810002,Hypertension with complications and secondary hypertension
+,C1391549,"c.pregnancy; hypertension, gestational hypertension"
+,C1411597,"pregnancy; hypertension, gestational hypertension"
+,C4546218,Diastolic hypertension and systolic hypertension
+,C0018036,"Hypertension, Goldblatt"
+,C0020540,Malignant Hypertension
+,C0020541,Portal Hypertension
+,C0020542,Pulmonary Hypertension
+,C0020544,Renal hypertension
+,C0020545,"Hypertension, Renovascular"
+,C0028840,Ocular Hypertension
+,C0085580,Essential Hypertension
+,C0151740,Intracranial Hypertension
+,C0152105,Hypertensive heart disease
+,C0152170,Transient hypertension
+,C0155616,Secondary hypertension
+,C0204946,Hypertension education
+,C0206586,Endolymphatic Hydrops
+,C0221154,Paroxysmal hypertension
+,C0221155,Systolic hypertension
+,C0234708,Raised intraocular pressure (finding)
+,C0235222,Diastolic hypertension
+tachypnea,C0231835,Tachypnea
+,C0475118,O/E - tachypnea
+,C1112613,Neonatal tachypnea
+,C1406798,transitory; tachypnea
+,C3806218,Episodic tachypnea
+,C0158940,Transitory tachypnea of newborn
+,C0456007,Mild transient tachypnea of newborn
+,C0456008,Severe transient tachypnea of newborn
+,C0751510,Sleep-Related Neurogenic Tachypnea
+,C2910386,"Tachypnea, not elsewhere classified"
+,C4031938,apnea alternating with tachypnea
+,C4227836,"Tachypnea, neonatal (in some patients)"
+,C0513235,"Monitor for dyspnea, fatigue, tachypnea, and orthopnea"
+,C0513259,"Monitor for fluid loss (e.g., bleeding, vomiting, diarrhea, perspiration, and tachypnea)"
+,C0548017,"Monitor for dyspnea, hyperventilation, stridor, retractions, tachypnea, sneezing, hoarseness, chest pain or tightness, cyanosis."
+,C4711910,"Monitor for sources of fluid loss (e.g., bleeding, vomiting, diarrhea, excessive perspiration, and tachypnea)"
+,C4711973,"Respond to signs of respiratory distress (e.g., tachypnea, nasal flaring, grunting, retractions, rhonchi, and rales)"
+,C4713700,"Monitor for early signs of systemic inflammatory response syndrome (e.g., increased temperature, tachycardia, tachypnea, hypocarbia, leukocytosis, or leucopenia)"
+,C4711063,"Critically evaluate any reports of: new-onset wheezing, hemoptysis, or pain with inspiration; chest, shoulder, back, or pleuritic pain; dyspnea, tachypnea, tachycardia, or syncope"
+,C4711814,"Monitor respiratory pattern for symptoms of pulmonary edema (e.g., anxiety, air hunger, orthopnea, dyspnea, tachypnea, cough, frothy sputum production, and shortness of breath)"
+,C4713438,"Monitor breathing patterns (e.g., bradypnea, tachypnea, hyperventilation, Kussmaul respirations, Cheyne-Stokes respirations, apneustic, Biot's respiration, ataxic patterns)"
+,C4713670,"Monitor for physiological changes related to loss of vascular tone (e.g., note decreased BP, bradycardia, tachypnea, reduced pulse pressure, anxiety, oliguria)"
+,C4711017,"Evaluate changes in respiratory and cardiac status (e.g., new-onset wheezing, hemoptysis, dyspnea, tachypnea, tachycardia, syncope) as patients who experience DVT are at a higher risk of recurrence and PE"
+,C4711045,"Evaluate changes in respiratory and cardiac status (e.g., new-onset wheezing, hemoptysis, dyspnea, tachypnea, tachycardia, syncope) as patients who experience PE or DVT are at a higher risk of recurrence"
+,C4712333,"Monitor for signs of malignant hyperthermia (e.g., hypercarbia, hyperthermia, tachycardia, tachypnea, metabolic acidosis, arrhythmias, cyanosis, mottled skin, muscle rigidity, profuse sweating, and unstable blood pressure)"
+vaginal discharge,C0227791,Vaginal Discharge
+,C0438692,Vaginal discharge symptom
+,C4554648,"Vaginal Discharge, CTCAE"
+,C0023533,Leukorrhea
+,C0241622,Hemorrhagic vaginal discharge
+,C0241623,Brown vaginal discharge
+,C0241624,"VAGINAL DISCHARGE, CHEESY"
+,C0241625,foul-smelling vaginal discharge
+,C0241626,Frothy vaginal discharge
+,C0241627,"VAGINAL DISCHARGE, MECONIUM STAINED"
+,C0241628,Mucoid vaginal discharge
+,C0241629,Purulent vaginal discharge
+,C0241630,Serosanguinous vaginal discharge
+,C0241631,Watery vaginal discharge
+,C0241632,Yellow vaginal discharge
+,C0425924,Vaginal discharge present
+,C0425925,Vaginal discharge absent
+,C0437076,O/E - vaginal discharge
+,C0437077,O/E - no vaginal discharge
+,C0437078,On examination - white vaginal discharge
+,C0437079,O/E - creamy vaginal discharge
+,C0437080,On examination - yellow vaginal discharge
+,C0437081,On examination - green vaginal discharge
+,C0437082,O/E - bloodstained vaginal discharge
+,C0437083,On examination - frothy vaginal discharge
+palpitations,C0030252,Palpitations
+,C3160712,"Palpitations, CTCAE"
+,C0425596,No palpitations
+,C0235239,Palpitations - fluttering
+,C0235240,Pounding heart
+,C0237314,Irregular heart beat
+,C0425585,Palpitations - rapid
+,C0425598,Bumping heart
+,C0522052,Intermittent palpitations
+,C0549267,Palpitations aggravated
+,C0849793,abnormal palpitations
+,C1854346,obsolete Palpitations (with pheochromocytoma)
+,C2032976,palpitations at rest
+,C2032982,duration of palpitations
+,C2032986,occurrence of palpitations
+,C2032995,palpitations sustained
+,C2032997,fast palpitations
+,C3532616,History of palpitations
+,C0497235,Palpitations/awareness of heart
+,C1560303,"Grade 1 Palpitations, CTCAE"
+,C1560304,"Grade 2 Palpitations, CTCAE"
+,C1997301,Palpitations with regular rhythm
+,C2032977,factors decreasing palpitations
+,C2032978,palpitations decreased by bending over
+,C2032979,palpitations decreased by coughing
+headache,C0018681,Headache
+,C4553197,"Headache, CTCAE"
+,C0423624,No headache
+,C4027863,rebound headache with intractable headache
+,C0004317,Aural headache
+,C0009088,Cluster Headache
+,C0011364,Dental headache
+,C0027427,Nasal headache
+,C0028838,Ocular Headache
+,C0032810,Postseizure headache
+,C0032816,Post-Traumatic Headache
+,C0033893,Tension Headache
+,C0037195,Sinus headache
+,C0042376,Vascular Headaches
+,C0149931,Migraine Disorders
+,C0151293,Chronic Headache
+,C0231613,Occipital headache
+,C0234240,Allergic headache
+,C0239885,Headache dull
+,C0239886,Frontal headache
+,C0239887,"HEADACHE, POSTAURICULAR"
+,C0239888,Headache recurrent
+,C0239889,excruciating headache
+,C0270697,Post-Lumbar Puncture Headache
+,C0338480,Common Migraine
+tonic-clonic,C1846619,Generalized clonic or tonic-clonic seizures
+,C0014549,Tonic-Clonic Epilepsy
+,C0494475,Tonic - clonic seizures
+,C0751117,Cryptogenic Tonic-Clonic Epilepsy
+,C0751118,"Epilepsy, Tonic-Clonic, Familial"
+,C0751119,"Epilepsy, Tonic-Clonic, Symptomatic"
+,C0848334,"status; epilepticus, tonic-clonic"
+,C0919909,Tonic clonic movements
+,C1409979,"status; epileptic, tonic-clonic"
+,C1846131,Photosensitive tonic-clonic seizures
+,C3536585,"Tonic-clonic seizure, refractory"
+,C3809174,"Seizures, tonic, clonic, focal"
+,C4013518,"Seizures, tonic-clonic (rare)"
+,C4227356,Seizures (tonic-clonic or nonfebrile)
+,C1845670,"Atypical absence, atonic/tonic, or tonic-clonic seizures"
+,C0748577,SEIZURE DISORDER GENERALIZED TONIC CLONIC
+,C0877017,Generalized tonic-clonic seizures with focal onset
+,C1847165,Generalized tonic-clonic seizures on awakening
+,C1863065,Generalized tonic-clonic seizures in 50%
+,C2137261,tonic-clonic epilepsy with intractable epilepsy
+,C3263967,Nonspecific tonic-clonic epileptic seizures
+,C3279876,"Seizures, tonic-clonic (1 patient)"
+,C3536584,"Tonic-clonic seizure, non-refractory"
+,C3551291,Tonic-clonic seizures (less common)
+,C3551487,Generalized tonic-clonic seizures (rare)
+pain region,C0007859,Neck Pain
+,C0024031,Low Back Pain
+,C0030197,pain in or around eyes
+,C0037011,Shoulder Pain
+,C0238973,Pain in cheek
+,C0458087,Pain finding at anatomical site
+,C0578055,Pain of head and neck region
+,C0838222,Pain in joint involving shoulder region
+,C0839475,"Pain in limb, shoulder region"
+,C0848201,pain in the umbilical region
+,C0858652,Parotid region pain
+,C1403230,pain; lumbar region
+,C2032373,pain in left infraspinatus region
+,C2032376,pain in left supraspinatus region
+,C2032395,pelvic pain on the left
+,C2032396,pelvic pain on the right
+,C2370973,Radiating pain in a segment or region
+,C2896445,Pain in axillary region
+,C3649792,chest pain in the pleural region
+,C4076174,Joint pain of pelvic region
+,C4750931,Bilateral pain of inguinal region
+,C0838226,"Pain in a joint, pelvic region and thigh"
+,C0839479,"Pain in limb, pelvic region and thigh"
+,C1286317,Characteristics of pain of head and neck region
+,C1960987,Pain radiating to lumbar region of back
+anxiety,C0003467,Anxiety
+,C0003469,Anxiety Disorders
+,C0860603,Anxiety symptoms
+,C1963064,"Anxiety, CTCAE 3.0"
+,C4050613,Anxiety Scale (BASC-2)
+,C4552735,"Anxiety, CTCAE 5.0"
+,C4553381,Anxiety Visual Analogue Scale
+,C0497330,Anxiety disorder/anxiety state
+,C1387807,"anxiety; nocturnal, dream anxiety"
+,C0003476,"Anxiety, Castration"
+,C0003477,Separation Anxiety Disorder
+,C0015726,Fear (Mental Process)
+,C0085380,Dental Anxiety
+,C0150135,Alleviating anxiety
+,C0231397,Anticipatory anxiety
+,C0231401,Mild anxiety
+,C0231402,Moderate anxiety
+,C0232711,Nervous diarrhea
+,C0235107,Anxiety-ridden
+,C0235111,Anxiety complex
+,C0262373,AIDS ANXIETY
+,C0262376,anxiety generalized
+,C0262377,Situational anxiety
+,C0270590,Anxiety hyperventilation
+,C0338908,Mixed anxiety and depressive disorder
+confusion,C0009676,Confusion
+,C0683369,Clouded consciousness
+,C1963086,"Confusion, CTCAE 3.0"
+,C4555211,"Confusion, CTCAE 5.0"
+,C2712099,Actual Positive Absence Of Confusion
+,C0152124,"Confusion, Reactive"
+,C0221560,Chronic confusion
+,C0558062,Onset of confusion
+,C0559682,Intermittent confusion
+,C0742735,CONFUSION BASELINE
+,C0742737,CONFUSION EPISODE
+,C0751053,"Confusion, Post-Ictal"
+,C0813178,Bewilderment
+,C0856071,Confusion aggravated
+,C0857042,Acute onset of confusion
+,C0857386,Nocturnal confusion
+,C0858851,Confusion reversible
+,C1285577,Acute confusional state
+,C1306037,Dissociative confusion
+,C1319200,Postoperative confusion
+,C1410977,confusion; situational
+,C1635002,Confusion:Find:Pt:^Patient:Ord:Observed.CCC
+,C1847506,"Confusion, paroxysmal"
+,C2107102,confusion fluctuates
+,C2107115,confusion steadily worsening
+baseline neurological status,C1269820,Assessment of baseline neurological status
+,C0547357,Assess for changes in baseline neurological status.
+,C1532249,Neurological status is consistent with or improved from preoperative baseline
+,C2945829,Neurological status is maintained at or improved from baseline levels
+malaise,C0231218,Malaise
+,C0700200,Presyncope
+,C0857027,Feeling Sick
+,C4552989,"Malaise, CTCAE"
+,C0024528,Malaise and fatigue
+,C0042420,Vasovagal syncope
+,C0205829,Malay Peninsula
+,C0276584,AIDS with malaise
+,C0850700,feeling of malaise
+,C1142479,Vaccination related malaise
+,C2732413,Postexertional fatigue
+,C2830453,Other malaise
+,C0439032,C/O - debility - malaise
+,C0695252,Other malaise and fatigue
+,C1096378,Near sudden infant death syndrome
+,C1556361,"Fatigue, CTCAE 3.0"
+,C1720231,Malaise associated with AIDS
+,C2219845,malaise worse in morning
+,C2219846,malaise worse in evening
+,C2232737,malaise started suddenly
+,C2936229,Infantile Apparent Life-Threatening Event
+,C4685278,"Grade 1 Malaise, CTCAE"
+,C4685798,"Grade 2 Malaise, CTCAE"
+,C4686363,"Grade 3 Malaise, CTCAE"
+,C0858636,Pharynx ill sensation of
+cool skin,C1997526,Cool skin
+,C2010775,generalized coolness of skin
+,C2370077,Soothe & Cool Skin Paste
+,C4060770,Skin cool to touch
+,C4718529,Pale cool skin
+,C2230155,cool skin and pallor with feet elevated
+,C2230152,cool skin and pallor with feet in dependent position
+,C2230153,cool and blue skin with feet in dependent position
+,C2948195,Petrolatum 0.5 MG/MG / Zinc Oxide 0.1 MG/MG Paste [Soothe & Cool Skin Paste]
+,C3474860,Soothe & Cool Skin Paste Paste Product
+,C3663561,Soothe and Cool Free Medseptic Skin Protectant
+,C2702032,Lanolin 0.5 MG/MG Topical Ointment
+,C3193779,Barrier Skin Protectant Topical application Cream [SOOTHE & COOL INZO]
+,C3474859,Petrolatum / Zinc Oxide Paste [Soothe & Cool Skin Paste]
+,C0548326,"Flush exposed skin with copious amounts of cool water, use eyelid retractors if needed, and utilize appropriate neutralizing agent if indicated."
+,C0794042,Lidocaine 5 MG/ML Topical Lotion
+,C3474858,Petrolatum 0.5 MG/MG / Zinc Oxide 0.1 MG/MG [Soothe & Cool Skin Paste]
+,C2940362,Triclosan 4.6 MG/ML Medicated Liquid Soap
+,C4709922,"Monitor for signs and symptoms of persistent bleeding (e.g., hypotension, weak and rapid pulse, cool and clammy skin, rapid breathing, restlessness, reduced urine output)"
+,C4709959,"Monitor for signs of hypovolemic shock (e.g., decreased blood pressure; rapid, thready pulse; increased respiratory rate; diaphoresis; restlessness; cool, clammy skin)"
+,C4709605,"Instruct patient on signs and symptoms to be reported to health care provider (e.g., chronic pain, skin breakdown, tingling, absent peripheral pulse, cool skin temperature, and changes in functional needs or goals)"
+,C4713699,"Monitor for early compensatory shock responses (e.g., normal blood pressure, narrowed pulse pressure, mild orthostatic hypotension [15 to 25 mm Hg], slight delayed capillary refill, pale/cool skin or flushed skin, slight tachypnea, nausea and vomiting, increased thirst, or weakness)"
+,C3535311,OCTINOXATE 75 mg in 1 mL / OXYBENZONE 60 mg in 1 mL / OCTISALATE 50 mg in 1 mL TOPICAL LOTION [Skin So Soft Bug Guard Plus IR3535 Cool N Fabulous Disappearing Color Insect Repellent Sunscreen]
+,C4224432,OCTINOXATE 30 mg in 1 mL / TITANIUM DIOXIDE 31.6 mg in 1 mL TOPICAL EMULSION [LINGERIE DE PEAU NATURAL PERFECTION FOUNDATION SKIN-FUSION TEXTURE WITH SUNSCREEN BROAD SPECTRUM SPF 20 00N PORCELAINE PORCELAIN]
+absent femoral pulses,C0239556,Femoral pulse absent
+,C2222307,absent femoral pulses on both sides
+hypotension,C0020649,Hypotension
+,C3163620,"Hypotension, CTCAE"
+,C0020650,"Hypotension, Controlled"
+,C0020651,"Hypotension, Orthostatic"
+,C0028841,Ocular Hypotension
+,C0155800,Chronic hypotension
+,C0239352,EXTREMITY HYPOTENSION
+,C0277885,Decreased systolic arterial pressure
+,C0277890,Decreased diastolic arterial pressure
+,C0340858,Drug-induced hypotension
+,C0348663,Other hypotension
+,C0348888,Idiopathic hypotension
+,C0375314,Iatrogenic hypotension
+,C0428883,Diastolic blood pressure
+,C0455995,Neonatal hypotension
+,C0456892,Low intracranial pressure
+,C0524812,Intracranial Hypotension
+,C0679394,hypotension and shock
+,C0740481,Hypotension asymptomatic
+,C0745176,Acute hypotension
+,C0745177,HYPOTENSION PERSISTENT
+,C0856090,Hypotension aggravated
+,C0858763,Hypotension paroxysm
+,C0863113,Hypotension symptomatic
+,C0865752,Postoperative hypotension
+nitroglycerin,C0782070,Nitroglycerin 0.02 MG/MG Topical Ointment
+,C0988182,Nitroglycerin 2 MG
+,C3202403,Nitroglycerin 2 MG Buccal Tablet
+,C0708582,Nitroglycerin 0.02 MG/MG Topical Ointment [Nitro-Bid]
+,C0979032,Nitroglycerin 2 MG Sustained Release Buccal Tablet
+,C1276885,Nitroglycerin 0.002 MG/MG Rectal Ointment
+,C4281900,500 ML Nitroglycerin 0.4 MG/ML Injection
+,C4281902,500 ML Nitroglycerin 0.1 MG/ML Injection
+,C4316063,Poor response to sublingual nitroglycerin or glyceryl trinitrate (in ALDH2*2 allele carriers)
+,C4275866,ARNICA MONTANA 200 [hp_C] in 41 mL / NITROGLYCERIN 200 [hp_C] in 41 mL / LACHESIS MUTA VENOM 200 [hp_C] in 41 mL / SUS SCROFA OVARY 30 [hp_C] in 41 mL / SAGE 2 [hp_X] in 41 mL / SANGUINARIA CANADENSIS ROOT 200 [hp_C] in 41 mL / SEPIA OFFICINALIS JUICE 200 [hp_C] in 41 mL ORAL LIQUID [Sprayology MenoPower]
+,C4283659,Gold Trichloride 6 [hp_X] in 50 mL / Solanum dulcamara Top 3 [hp_X] in 50 mL / Euphrasia Stricta 2 [hp_X] in 50 mL / Nitroglycerin 6 [hp_X] in 50 mL / Hedera helix Flowering Twig 8 [hp_X] in 50 mL / Ruta graveolens Flowering Top 6 [hp_X] in 50 mL / Tobacco Leaf 6 [hp_X] in 50 mL / Cynara scolymus Whole 8 [hp_X] in 50 mL ORAL SOLUTION/ DROPS [GLAUTARAKT]
+,C3488526,SELENICEREUS GRANDIFLORUS STEM 2 [hp_X] in 100 mL / CONVALLARIA MAJALIS 3 [hp_X] in 100 mL / CRATAEGUS LAEVIGATA WHOLE 1 [hp_X] in 100 mL / CAMPHOR (NATURAL) 2 [hp_X] in 100 mL / KALMIA LATIFOLIA LEAF 4 [hp_X] in 100 mL / SPIGELIA ANTHELMIA 4 [hp_X] in 100 mL / LACHESIS MUTA VENOM 8 [hp_X] in 100 mL / ARNICA MONTANA 6 [hp_X] in 100 mL / TOBACCO LEAF 8 [hp_X] in 100 mL / NITROGLYCERIN 8 [hp_X] in 100 mL ORAL LIQUID [CACTUS]
+,C3537574,SPIGELIA ANTHELMIA 2 [hp_X] in 1 mL / POTASSIUM CARBONATE 3 [hp_X] in 1 mL / ARNICA MONTANA 4 [hp_X] in 1 mL / SELENICEREUS GRANDIFLORUS STEM 4 [hp_X] in 1 mL / GELSEMIUM SEMPERVIRENS ROOT 4 [hp_X] in 1 mL / CASTOR CANADENSIS SCENT GLAND SECRETION 6 [hp_X] in 1 mL / NITROGLYCERIN 6 [hp_X] in 1 mL / RANUNCULUS BULBOSUS 6 [hp_X] in 1 mL / PORK HEART 8 [hp_X] in 1 mL / ARTEMISIA ABROTANUM FLOWERING TOP 12 [hp_X] in 1 mL / SULFUR 12 [hp_X] in 1 mL ORAL LIQUID [Heart Fatigue]
+,C3848149,HAWTHORN LEAF WITH FLOWER 2 [hp_X] in 1 g / SELENICEREUS GRANDIFLORUS STEM 3 [hp_X] in 1 g / NITROGLYCERIN 5 [hp_X] in 1 g / ARNICA MONTANA 9 [hp_X] in 1 g / GOLD 9 [hp_X] in 1 g / TOBACCO LEAF 11 [hp_X] in 1 g / ACONITUM NAPELLUS 13 [hp_X] in 1 g / AMANITA MUSCARIA FRUITING BODY 13 [hp_X] in 1 g / STRYCHNOS NUX-VOMICA SEED 13 [hp_X] in 1 g / LATRODECTUS MACTANS 16 [hp_X] in 1 g TOPICAL CREAM
+,C4704304,"ATROPA BELLADONNA 6 [hp_X] in 1 mL / NITROGLYCERIN 6 [hp_X] in 1 mL / LACTIC ACID, UNSPECIFIED FORM 6 [hp_X] in 1 mL / SCROPHULARIA NODOSA 6 [hp_X] in 1 mL / ALOE 6 [hp_X] in 1 mL / RADIUM BROMIDE 21 [hp_X] in 1 mL / POTASSIUM IODIDE 6 [hp_X] in 1 mL / SUS SCROFA BONE MARROW 6 [hp_X] in 1 mL / ZINC 6 [hp_X] in 1 mL / CITRIC ACID MONOHYDRATE 2 [hp_X] in 1 mL SUBLINGUAL SOLUTION [D-99]"
+confusion,C0009676,Confusion
+,C0683369,Clouded consciousness
+,C1963086,"Confusion, CTCAE 3.0"
+,C4555211,"Confusion, CTCAE 5.0"
+,C2712099,Actual Positive Absence Of Confusion
+,C0152124,"Confusion, Reactive"
+,C0221560,Chronic confusion
+,C0558062,Onset of confusion
+,C0559682,Intermittent confusion
+,C0742735,CONFUSION BASELINE
+,C0742737,CONFUSION EPISODE
+,C0751053,"Confusion, Post-Ictal"
+,C0813178,Bewilderment
+,C0856071,Confusion aggravated
+,C0857042,Acute onset of confusion
+,C0857386,Nocturnal confusion
+,C0858851,Confusion reversible
+,C1285577,Acute confusional state
+,C1306037,Dissociative confusion
+,C1319200,Postoperative confusion
+,C1410977,confusion; situational
+,C1635002,Confusion:Find:Pt:^Patient:Ord:Observed.CCC
+,C1847506,"Confusion, paroxysmal"
+,C2107102,confusion fluctuates
+,C2107115,confusion steadily worsening
+dextrose,C0772253,dextrose 3% in water (D3W)
+,C4082718,500 ML Glucose 500 MG/ML Injection
+,C4082745,1000 ML Glucose 100 MG/ML Injection
+,C4082779,50 ML Glucose 50 MG/ML Injection
+,C4082772,100 ML Glucose 50 MG/ML Injection
+,C0770274,dextrose 2.5% in 1/3 normal saline
+,C1814826,peritoneal dialysis soln no.3 with 4.25 % dextrose
+,C4082638,1000 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injection
+,C4082641,1000 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injection
+,C4256332,1000 ML Glucose 50 MG/ML / Sodium Chloride 3.3 MG/ML Injection
+,C4256333,1000 ML Glucose 50 MG/ML / Sodium Chloride 2 MG/ML Injection
+,C4256338,1000 ML Glucose 50 MG/ML / Sodium Chloride 3 MG/ML Injection
+,C4082774,1000 ML Glucose 50 MG/ML Injection
+,C4082777,250 ML Glucose 50 MG/ML Injection
+,C4082780,500 ML Glucose 50 MG/ML Injection
+,C4083036,1000 ML Glucose 50 MG/ML / Sodium Chloride 2.25 MG/ML Injection
+,C2682923,Dextrose/Magnesium Sulfate 5%-3 GM/50 ML Intravenous Solution
+,C2702468,Cefazolin 2000 MG Injection
+,C3695768,"Cefazolin Sodium 30 mg in 1 mL INTRAVENOUS INJECTION, SOLUTION"
+,C4048441,150 ML Levofloxacin 5 MG/ML Injection
+,C4082724,1000 ML Glucose 700 MG/ML Injection
+,C4256331,250 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injection
+,C5234041,"Trophamine and Dextrose with Calcium Gluconate and Heparin, Amino Acids 3% with 5% Dextrose, Calcium Gluconate 15 mEq/L and Heparin intravenous solution"
+,C5234042,"Trophamine and Dextrose with Calcium Gluconate and Heparin, Amino Acids 3% with 5% Dextrose, Calcium Gluconate 9.32 mEq/L and Heparin intravenous solution"
+,C5234043,"Trophamine and Dextrose with Calcium Gluconate and Heparin, Amino Acids 3% with 10% Dextrose, Calcium Gluconate 9.32 mEq/L and Heparin intravenous solution"
+dizziness,C0012833,Dizziness
+,C0042571,Vertigo
+,C1963093,"Dizziness, CTCAE 3.0"
+,C4084788,Have Dizziness
+,C4085547,How Often Dizzy
+,C4085548,Usual Severity Dizziness
+,C4085549,How Much Distress Dizziness
+,C4553830,"Dizziness, CTCAE 5.0"
+,C4032495,No Dizziness
+,C0234752,Psychogenic vertigo
+,C0234987,Postural dizziness
+,C0234988,Exertional dizziness
+,C0395923,Multisensory dizziness
+,C0427112,Dizziness present
+,C0476206,Dizziness and giddiness symptoms
+,C0476207,"giddiness, vertigo"
+,C0497293,vertigo/dizziness
+,C0549239,Dizziness aggravated
+,C0743227,dizziness chronic
+,C0743229,dizziness intermittent
+,C0859887,Positional dizziness
+,C0919635,Postoperative dizziness
+,C1395855,epidemic; dizziness
+,C1395856,hysterical; giddiness
+,C1395857,syndrome; dizziness
+hypotension,C0020649,Hypotension
+,C3163620,"Hypotension, CTCAE"
+,C0020650,"Hypotension, Controlled"
+,C0020651,"Hypotension, Orthostatic"
+,C0028841,Ocular Hypotension
+,C0155800,Chronic hypotension
+,C0239352,EXTREMITY HYPOTENSION
+,C0277885,Decreased systolic arterial pressure
+,C0277890,Decreased diastolic arterial pressure
+,C0340858,Drug-induced hypotension
+,C0348663,Other hypotension
+,C0348888,Idiopathic hypotension
+,C0375314,Iatrogenic hypotension
+,C0428883,Diastolic blood pressure
+,C0455995,Neonatal hypotension
+,C0456892,Low intracranial pressure
+,C0524812,Intracranial Hypotension
+,C0679394,hypotension and shock
+,C0740481,Hypotension asymptomatic
+,C0745176,Acute hypotension
+,C0745177,HYPOTENSION PERSISTENT
+,C0856090,Hypotension aggravated
+,C0858763,Hypotension paroxysm
+,C0863113,Hypotension symptomatic
+,C0865752,Postoperative hypotension
+chest pain,C0008031,Chest Pain
+,C2926613,Chest pain:Finding:Point in time:^Patient:Ordinal
+,C0008035,Chest wall pain
+,C0151826,Retrosternal pain
+,C0742302,CHEST PAIN SITE ANTERIOR CHEST
+,C0742304,CHEST PAIN SITE LOWER CHEST
+,C0742305,CHEST PAIN SITE POSTERIOR CHEST
+,C0002962,Angina Pectoris
+,C0002965,"Angina, Unstable"
+,C0008033,Pleuritic pain
+,C0029537,Other chest pain
+,C0152172,Angina decubitus
+,C0231644,Xiphodynia
+,C0232285,Dull chest pain
+,C0232286,Precordial pain
+,C0232288,Chest pain on exertion
+,C0232289,Radiating chest pain
+,C0232290,Crushing chest pain
+,C0232291,Pleuropericardial chest pain
+,C0232533,Esophageal chest pain
+,C0235716,Chest burning pain of
+,C0238994,"CHEST PAIN, NONPLEURITIC"
+,C0238995,sharp chest pain
+,C0262384,Atypical chest pain
+,C0302355,Chest pain NEC in MDR
+seizure,C0036572,Seizures
+,C1959629,"Seizure, CTCAE 3.0"
+,C4553401,"Seizure, CTCAE 5.0"
+,C1856553,No seizures
+,C2010674,gelastic seizure with intractable seizure
+,C2078048,intractable Jacksonian epilepsy
+,C2104601,cursive seizure with intractable seizure
+,C0009952,Febrile Convulsions
+,C0014544,Epilepsy
+,C0014550,Myoclonic Epilepsy
+,C0014553,Absence Epilepsy
+,C0014556,"Epilepsy, Temporal Lobe"
+,C0022333,Jacksonian Seizure
+,C0149775,Fit frequency
+,C0150328,Seizure management
+,C0150329,Seizure precautions
+,C0159020,Convulsions in the newborn
+,C0234533,Generalized seizures
+,C0234535,Clonic Seizures
+,C0234549,Stress seizure
+,C0235097,Withdrawal seizures
+,C0237299,tremors and/or seizures
+,C0239938,Unilateral seizure
+,C0270819,"Reflex Epilepsy, Cursive (Running)"
+,C0270820,Gelastic Epilepsy
+hypothermia,C0020672,"Hypothermia, natural"
+,C0413252,Hypothermia due to exposure
+,C1963170,"Hypothermia, CTCAE"
+,C0017131,Gastric Hypothermia
+,C0020674,"Hypothermia, Induced"
+,C0150255,Treatment of hypothermia
+,C0179588,"Caps, Hypothermia"
+,C0181261,"Cooling Units, Patient"
+,C0270256,Hypothermia of newborn
+,C0274285,"Hypothermia, Accidental"
+,C0413250,Immersion hypothermia
+,C0424978,At risk hypothermia
+,C0444908,Deep hypothermia
+,C0445043,Mild hypothermia
+,C0445045,Moderate hypothermia
+,C0445200,Profound hypothermia
+,C0558520,O/E - hypothermia
+,C0582606,Hypothermia caused by anesthetic
+,C0597844,anesthetic hypothermia
+,C0864565,Hypothermia central
+,C0864566,Hypothermia local
+,C0919592,Hypothermia neonatal
+,C0943767,Hypothermia:Find:Pt:^Patient:Ord:Observed.CCC
+,C1301797,Induced hypothermia (finding)
+,C1837639,Intermittent hypothermia
+fever,C0015967,Fever
+,C0424755,Fever symptoms (finding)
+,C4552740,"Fever, CTCAE"
+,C0024530,Malaria
+,C0040830,Trench Fever
+,C0043397,Jungle yellow fever
+,C1313924,"screening; fever, yellow fever"
+,C1401679,glandular fever; fever
+,C1401748,fever; screening hemorrhagic fever
+,C1401765,fever; blackwater fever
+,C1401741,"fever; Mediterranean, tick fever (rickettsiosis, spotted fever)"
+,C0002797,Bovine Anaplasmosis
+,C0003175,Anthrax disease
+,C0004771,Bartonella Infections
+,C0005681,Blackwater Fever
+,C0006060,Boutonneuse Fever
+,C0006309,Brucellosis
+,C0006391,Bunyamwera virus disease
+,C0006542,Byssinosis
+,C0008055,Chikungunya Fever
+,C0009186,Coccidioidomycosis
+,C0009400,Colorado Tick Fever
+,C0009952,Febrile Convulsions
+,C0011311,Dengue Fever
+,C0014481,Ephemeral Fever
+diazepam,C0985491,Diazepam 2 MG
+,C1130219,Diazepam 2 MG/ML
+,C1588198,Diazepam 2 MG [Valium]
+,C0688561,Diazepam 2 MG Oral Tablet
+,C1351926,Diazepam 2 MG/ML Enema
+,C4281823,2 ML Diazepam 5 MG/ML Cartridge
+,C2346396,2 ML Diazepam 5 MG/ML Rectal Gel
+,C4281829,2 ML Diazepam 5 MG/ML Auto-Injector
+,C4764484,2 ML Diazepam 5 MG/ML Prefilled Syringe
+,C0355025,Diazepam 2 MG Oral Tablet [Valium]
+,C0361044,Diazepam 2 MG/ML Oral Suspension
+,C3147000,DBIL5P2 gene
+,C5228600,diazepam 10 MG in 0.1 mL Nasal Spray Dose Kit
+,C5228602,diazepam 5 MG in 0.1 mL Nasal Spray Dose Kit
+,C1965885,2 ML Diazepam 5 MG/ML Rectal Gel [Diastat]
+,C5203203,{2 (0.1 ML) (Diazepam 100 MG/ML Nasal Spray [Valtoco]) } Pack [Valtoco 20 MG Dose Kit]
+,C5228601,diazepam 20 MG (2 X 10 MG in 0.1 mL) Nasal Spray Dose Kit
+,C5228603,diazepam 15 MG (2 X 7.5 MG in 0.1 mL) Nasal Spray Dose Kit
+,C5228395,VALTOCO 15 MG Dose Kit
+,C4713870,"Administer medications (e.g., benzodiazepines, chlorpromazine, diazepam, nicotine replacement, phenobarbital, clonidine, trazodone, methadone, alpha-2 adrenergic agonists, and antipsychotics), remaining aware of cross-tolerance"
+agitated delirium,C1848465,Agitated delirium
+unequal femoral pulses,C1997431,Unequal femoral pulses
+dizziness,C0012833,Dizziness
+,C0042571,Vertigo
+,C1963093,"Dizziness, CTCAE 3.0"
+,C4084788,Have Dizziness
+,C4085547,How Often Dizzy
+,C4085548,Usual Severity Dizziness
+,C4085549,How Much Distress Dizziness
+,C4553830,"Dizziness, CTCAE 5.0"
+,C4032495,No Dizziness
+,C0234752,Psychogenic vertigo
+,C0234987,Postural dizziness
+,C0234988,Exertional dizziness
+,C0395923,Multisensory dizziness
+,C0427112,Dizziness present
+,C0476206,Dizziness and giddiness symptoms
+,C0476207,"giddiness, vertigo"
+,C0497293,vertigo/dizziness
+,C0549239,Dizziness aggravated
+,C0743227,dizziness chronic
+,C0743229,dizziness intermittent
+,C0859887,Positional dizziness
+,C0919635,Postoperative dizziness
+,C1395855,epidemic; dizziness
+,C1395856,hysterical; giddiness
+,C1395857,syndrome; dizziness
+suicidal thought,C0424000,Feeling suicidal (finding)
+,C3639910,C-SSRS Baseline - Non-Specific Suicidal Thought
+,C3641580,C-SSRS Since Last Visit - Non-Specific Suicidal Thought
+,C3830744,C-SSRS Children's Since Last Visit - Non-Specific Active Suicidal Thoughts
+,C3830820,C-SSRS Children's Baseline - Non-Specific Active Suicidal Thoughts
+pregnancy,C0032961,Pregnancy
+,C0425965,Possible pregnancy (finding)
+,C0020217,Hydatidiform Mole
+,C0032993,"Pregnancy, Prolonged"
+,C0269291,"Pregnancy, Heterotopic"
+,C0700573,Encounter due to normal pregnancy
+,C0743385,ECTOPIC PREGNANCY PREVIOUS PREGNANCY
+,C1135232,abdominal pregnancy with intrauterine pregnancy
+,C1135234,tubal pregnancy with intrauterine pregnancy
+,C1135236,Combined intrauterine and ovarian pregnancy
+,C1396055,"thrombosis; pregnancy, ectopic pregnancy"
+,C1407293,"thrombosis; pregnancy, molar pregnancy"
+,C1411577,"pregnancy; hypertension, pregnancy-induced"
+,C2026878,cervical pregnancy with intrauterine pregnancy
+,C2077788,interligamentous pregnancy with intrauterine pregnancy
+,C2113879,pregnancy test positive - pregnancy no. ___
+,C2135561,recent pregnancy with pregnancy number
+,C2137652,cornual pregnancy with intrauterine pregnancy
+,C2229028,mesometric pregnancy with intrauterine pregnancy
+,C2231264,mural pregnancy with intrauterine pregnancy
+,C3161149,Pregnancy with history of ectopic pregnancy
+,C2711092,Combined tubal and intrauterine pregnancy
+,C0000786,Spontaneous abortion
+,C0011209,Obstetric Delivery
+,C0015944,"Fetal Membranes, Premature Rupture"
+decreased mental status,C0746541,MENTAL STATUS ALTERED RESPONSIVENESS DECREASED
+,C4713693,"Monitor for signs/symptoms of hypovolemic shock (e.g., increased thirst, increased HR, increased SVR, decreased urine output, decreased bowel sounds, decreased peripheral perfusion, altered mental status, or altered respirations)"
+seizure,C0036572,Seizures
+,C1959629,"Seizure, CTCAE 3.0"
+,C4553401,"Seizure, CTCAE 5.0"
+,C1856553,No seizures
+,C2010674,gelastic seizure with intractable seizure
+,C2078048,intractable Jacksonian epilepsy
+,C2104601,cursive seizure with intractable seizure
+,C0009952,Febrile Convulsions
+,C0014544,Epilepsy
+,C0014550,Myoclonic Epilepsy
+,C0014553,Absence Epilepsy
+,C0014556,"Epilepsy, Temporal Lobe"
+,C0022333,Jacksonian Seizure
+,C0149775,Fit frequency
+,C0150328,Seizure management
+,C0150329,Seizure precautions
+,C0159020,Convulsions in the newborn
+,C0234533,Generalized seizures
+,C0234535,Clonic Seizures
+,C0234549,Stress seizure
+,C0235097,Withdrawal seizures
+,C0237299,tremors and/or seizures
+,C0239938,Unilateral seizure
+,C0270819,"Reflex Epilepsy, Cursive (Running)"
+,C0270820,Gelastic Epilepsy
+ipratropium,C0361785,Albuterol 0.833 MG/ML / Ipratropium Bromide 0.167 MG/ML Inhalation Solution
+agitation,C0085631,Agitation
+,C1963060,"Agitation, CTCAE 3.0"
+,C4552855,"Agitation, CTCAE 5.0"
+,C0235010,Muscular unrest
+,C0235844,Neonatal agitation
+,C0302807,Agitation mental
+,C0424295,Hyperactive behavior
+,C0476482,Restlessness and agitation
+,C0542200,Restlessness (phenothiazine)
+,C0549254,Agitation aggravated
+,C0700075,Motor restlessness
+,C0740827,AGITATION EXTREME
+,C0858249,Increased agitation
+,C0860611,Physically restless
+,C0865301,Catatonic agitation
+,C0865302,Schizophrenia agitation
+,C0877432,Nocturnal agitation
+,C0919572,Agitation postoperative
+,C0920253,Emergence Delirium
+,C1271077,No psychomotor agitation
+,C2585388,Level of agitation
+,C2712004,Reduced Agitation
+,C3639389,HAMD-17 - Agitation
+,C3640500,HAMD-21 - Agitation
+,C3887611,Restlessness
+incontinence,C0021167,Incontinence
+,C0015732,Fecal Incontinence
+,C0042024,Urinary Incontinence
+,C0042025,Urinary Stress Incontinence
+,C0085099,Incontinence pads
+,C0150042,Functional urinary incontinence
+,C0150043,Reflex incontinence of urine
+,C0150044,Total urinary incontinence
+,C0150045,Urge Incontinence
+,C0150633,Incontinence care
+,C0178997,Nocturnal bladder warning system
+,C0181297,Incontinence Bags
+,C0181298,"Clamps, External Occlusion, Penis/Incontinence"
+,C0181301,Incontinence Pants
+,C0183594,"Stimulators, Electrical, Neuromuscular, Incontinence"
+,C0232705,Idiopathic fecal incontinence
+,C0312413,Overflow incontinence of urine
+,C0401155,Double incontinence
+,C0406421,Pigmentary incontinence
+,C0426369,Frequency of incontinence
+,C0426371,Unaware of passing urine
+,C0463007,Incontinence appliance
+,C0463034,Incontinence belt
+,C0463060,Incontinence sheath
+,C0555869,Incontinence control
+hypoxemia,C0700292,Hypoxemia
+,C0745187,HYPOXEMIA ASYMPTOMATIC
+,C0745188,Chronic hypoxemia
+,C0745189,hypoxemia intraoperative
+,C1561822,Asphyxia and hypoxemia
+,C2316692,Neonatal hypoxemia
+,C3830149,Fetal Hypoxemia
+,C0272144,Erythrocytosis due to tissue hypoxemia
+,C1845984,Hypoxemia and cor pulmonale
+,C3531793,Sleep related hypoxemia
+,C3532949,Sleep related hypoventilation or hypoxemia
+,C3806173,Decreased sensitivity to hypercapnia and hypoxemia
+,C3806286,Decreased sensitivity to hypoxemia
+,C4075684,Hypoxemia during surgery
+,C4732851,Hypoxemia in cord blood
+,C1561867,Sleep related hypoventilation/hypoxemia in conditions classifiable elsewhere
+,C2013990,organic sleep-related hypoventilation or hypoxemia in other conditions
+,C2875256,Sleep related hypoxemia in conditions classified elsewhere
+,C0513792,"Monitor the patient for adverse effects of medication, including agitation, respiratory depression, hypotension, undue somnolence, hypoxemia, arrhythmias, apnea, or exacerbation of a preexisting condition"
+,C4712437,"Monitor for signs of respiratory muscle fatigue (e.g., abrupt rise in PaCO2; rapid, shallow ventilation; paradoxical abdominal wall motion), hypoxemia, and tissue hypoxia when weaning is in process"
+,C4709492,"Monitor for hyperventilation and treat causes (e.g., inappropriate high-minute mechanical ventilation, anxiety, hypoxemia, lung lesions, severe anemia, salicylate toxicity, CNS injury, hypermetabolic states, GI distention, pain, high altitude, septicemia, stress)"
+,C4712386,"Monitor for contraindications to noninvasive ventilation support (e.g., hemodynamic instability, cardiovascular or respiratory arrest, unstable angina, acute myocardial infarction, refractory hypoxemia, severe respiratory acidosis, decreased level of consciousness, problems with securing/placing noninvasive equipment, facial trauma, inability to cooperate, morbidly obese, thick secretions, or bleeding)"
+chest tightness,C0232292,Chest tightness
+,C0232285,Dull chest pain
+,C0742341,CHEST SYMPTOM TIGHTNESS CHRONIC
+,C0849758,chest and heart tightness
+,C0850701,respiratory chest tightness
+,C0856135,Chest tightness aggravated
+,C1707376,Chest Tightness or Pressure
+,C2073391,chest tightness or heavy pressure
+,C3173743,"In the last 12Mo, have you been awakened from sleep by shortness of breath or a feeling of tightness in your chest:Find:12Mo:^Patient:Ord:PhenX"
+,C3475754,I feel tightness in my chest in the past 7D
+,C3842948,"Tightness, pain, or discomfort in your chest or stomach"
+,C4479804,chest tightness within 60 minutes after exercise
+,C4724911,"How Much Bothered by Tightness, Pulling, or Stretching in Affected Breast or Chest Area"
+,C4726409,FACT-L Version 4 - I Feel Tightness in My Chest
+,C3482583,I feel tightness in my chest in the past 7D:Find:7D:^Patient:Ord:FACIT
+,C4695246,"How many times have you had chest pain, chest tightness or angina on average over the past 4W:Find:4W:^Patient:Ord:SAQ"
+,C4695247,"How many times have you had chest pain, chest tightness or angina on average over the past 4W"
+,C4695248,"Lifting or moving heavy objects limited by chest pain, chest tightness or angina over the past 4W:Find:4W:^Patient:Ord:SAQ"
+,C4695249,"Lifting or moving heavy objects limited by chest pain, chest tightness or angina over the past 4W"
+,C4695250,"Gardening, vacuuming, or carrying groceries limited by chest pain, chest tightness or angina over the past 4W:Find:4W:^Patient:Ord:SAQ"
+,C4695251,"Gardening, vacuuming, or carrying groceries limited by chest pain, chest tightness or angina over the past 4W"
+,C4695566,"How much has your chest pain, chest tightness or angina limited your enjoyment of life over the past 4W"
+,C4695575,"Walking indoors on level ground limited by chest pain, chest tightness or angina over the past 4W:Find:4W:^Patient:Ord:SAQ"
+,C4695576,"Walking indoors on level ground limited by chest pain, chest tightness or angina over the past 4W"
+,C0548017,"Monitor for dyspnea, hyperventilation, stridor, retractions, tachypnea, sneezing, hoarseness, chest pain or tightness, cyanosis."
+trauma,C0043251,Wounds and Injuries
+,C0548346,Trauma assessment and care
+,C1510467,trauma qualifier
+,C3263723,Traumatic injury
+,C3714660,Trauma
+,C4049136,"Trauma, nursing specialty"
+,C0003794,Arm Injuries
+,C0004760,Dysbarism
+,C0005604,Birth Injuries
+,C0006434,Burn injury
+,C0009426,Combat Disorders
+,C0015408,Eye Injuries
+,C0018674,Craniocerebral Trauma
+,C0018781,Noise-induced hearing loss
+,C0018805,Heart Injuries
+,C0022744,Knee Injuries
+,C0026771,Multiple Trauma
+,C0034530,Radiation injury
+,C0037367,Smoke Inhalation Injury
+,C0037929,Spinal Cord Injuries
+,C0037937,Spinal Injuries
+,C0039504,Tendon Injuries
+,C0039980,Thoracic Injuries
+,C0040786,Trauma Centers
+,C0040788,Trauma Units
+loss of consciousness,C0041657,Unconscious State
+,C1998154,No loss of consciousness
+,C0020617,Hypoglycemic coma
+,C0039070,Syncope
+,C0160121,Concussion with no loss of consciousness
+,C0160122,Concussion with less than 1 hour loss of consciousness
+,C0160123,Concussion with 1-24 hours loss of consciousness
+,C0160126,Concussion with loss of consciousness
+,C0234431,Brief loss of consciousness
+,C0234432,Moderate loss of consciousness
+,C0234433,Prolonged loss of consciousness
+,C0272988,Cerebellar contusion without open intracranial wound AND with no loss of consciousness
+,C0555699,O/E - loss of consciousness
+,C0840361,Loss of consciousness of unspecified duration
+,C0848041,history of loss of consciousness
+,C1264285,Intracranial injury with loss of consciousness
+,C2026450,cerebral contusion with no loss of consciousness
+,C2026464,laceration of cerebrum with no loss of consciousness
+,C2105408,fracture of skull with no loss of consciousness
+,C2126116,urinary incontinence with loss of consciousness
+,C2831932,Concussion without loss of consciousness
+,C3507666,cerebellar hemorrhage with no loss of consciousness
+,C3507667,cerebellar hemorrhage with loss of consciousness
+,C3507681,brainstem hemorrhage with no loss of consciousness
+,C3507682,brainstem hemorrhage with loss of consciousness
+hyperglycemia,C0020456,Hyperglycemia
+,C2919432,Glucose in blood specimen above reference range
+,C4552833,"Hyperglycemia, CTCAE"
+,C0150252,Hyperglycemia management
+,C0239979,"HYPERGLYCEMIA, SEVERE"
+,C0239980,"HYPERGLYCEMIA, SLIGHT"
+,C0271716,Postpancreatectomy hyperglycemia
+,C0342300,Chronic hyperglycemia
+,C0342301,Acute hyperglycemia
+,C0342303,Metabolic stress hyperglycemia
+,C0342314,Dawn phenomenon
+,C0475718,Neonatal hyperglycemia
+,C0745092,HYPERGLYCEMIA DECOMPENSATED
+,C0745095,hyperglycemia hyperosmolar
+,C0850855,diabetic hyperglycaemia
+,C1409092,pancreatectomy; hyperglycemia
+,C1820901,Hyperglycemia prevention
+,C1855520,"Hyperglycemia, Postprandial"
+,C2609269,Fasting hyperglycaemia
+,C2828133,Hyperglycemia Artifact
+,C3650687,Managing Hyperglycaemia
+,C3842022,Medical-hyperglycemia
+,C4020778,maternal hyperglycemia
+,C4552430,Post transplant hyperglycaemia
+,C4714994,Hyperglycemia Severity
+blindness,C0456909,Blindness
+,C0018975,Hemeralopia
+,C0028077,Nyctalopia
+,C0242225,Color blindness
+,C0271265,Snow blindness
+,C1390015,"blindness; day blindness, sequelae"
+,C1390023,word blindness; blindness
+,C1533291,river blindness; blindness (manifestation)
+,C0002018,Alexia
+,C0002419,Tobacco amblyopia
+,C0005754,Congenital blindness
+,C0029001,Onchocerciasis
+,C0029002,"Onchocerciasis, Ocular"
+,C0149793,Amaurosis Fugax
+,C0154910,Recurrent iridocyclitis
+,C0155002,Sudden Visual Loss
+,C0155003,"Blindness, Transient"
+,C0155320,"Blindness, Cortical"
+,C0221473,"Blindness, Hysterical"
+,C0234495,Musical alexia
+,C0234512,Prosopagnosia
+,C0266526,Norrie disease
+,C0271214,Central blindness
+,C0271215,"Blindness, Legal"
+,C0271217,Impairment level: total impairment of both eyes (disorder)
+narcan,C0358449,1 ML Naloxone Hydrochloride 0.4 MG/ML Cartridge
+post-ictal,C0234543,Post-ictal state
+,C0340098,Neurogenic pulmonary edema
+,C0394018,Post-ictal coma
+,C0750919,"Aphasia, Post-Ictal"
+,C0751053,"Confusion, Post-Ictal"
+,C0751195,"Hemiplegia, Post-Ictal"
+,C0751729,"Blindness, Cortical, Post-Ictal"
+,C0751903,Post-Ictal Memory Loss
+,C1281906,Post-ictal drowsiness
+,C4536342,post-ictal headache
+clammy skin,C0392162,Clammy skin
+,C0235848,Cold and clammy skin
+,C4710952,"Monitor for cardiovascular manifestations of hyponatremia (e.g., orthostatic hypotension, elevated blood pressure, cold and clammy skin, poor skin turgor, hypovolemia, hypervolemia)"
+,C4709922,"Monitor for signs and symptoms of persistent bleeding (e.g., hypotension, weak and rapid pulse, cool and clammy skin, rapid breathing, restlessness, reduced urine output)"
+,C4709959,"Monitor for signs of hypovolemic shock (e.g., decreased blood pressure; rapid, thready pulse; increased respiratory rate; diaphoresis; restlessness; cool, clammy skin)"
+cough,C0010200,Coughing
+,C1961131,"Cough, CTCAE"
+,C3274924,Have Been Coughing
+,C3815497,Cough (guaifenesin)
+,C4084725,Usual Severity Cough
+,C4084726,How Much Distress Cough
+,C4084727,Cough Frequency
+,C0425502,No cough
+,C0719558,Cough-X Cough Relief
+,C0003449,Antitussive Agents
+,C0010201,Chronic cough
+,C0043167,Pertussis
+,C0043168,Whooping cough due to unspecified organism
+,C0150182,Encouragement of deep breathing and coughing exercises
+,C0151574,Decreased coughing
+,C0231911,Paroxysmal cough
+,C0231912,Nocturnal cough
+,C0231914,Cough at rest
+,C0231917,Postural cough
+,C0232051,Cough reflex
+,C0234435,"Syncope, Tussive"
+,C0234866,Barking cough
+,C0239132,"COUGH, EXPLOSIVE"
+,C0239133,Hacking cough
+,C0239134,Productive Cough
+diarrhea,C0011991,Diarrhea
+,C1963091,"Diarrhea, CTCAE"
+,C3641756,Have Diarrhea
+,C4084784,How Much Distress Diarrhea
+,C4084802,Usual Severity Diarrhea
+,C4085317,How Often Diarrhea
+,C0474498,Diarrhea not present
+,C0004692,Balantidiasis
+,C0011992,Infantile Diarrhea
+,C0013369,Dysentery
+,C0038054,"Sprue, Tropical"
+,C0151594,Hemorrhagic diarrhea
+,C0152517,Viral gastroenteritis
+,C0156173,Functional diarrhea
+,C0232709,Postprandial diarrhea
+,C0232710,Chronic constipation with overflow
+,C0232711,Nervous diarrhea
+,C0235840,Neonatal diarrhea
+,C0235952,Clostridium difficile diarrhea
+,C0239181,Intermittent diarrhea
+,C0239182,Watery diarrhoea
+,C0242002,Mucous diarrhoea
+,C0267436,Non-infective diarrhea
+,C0267437,Allergic diarrhea
+,C0267438,Dietetic diarrhea
+vomiting,C0042963,Vomiting
+,C1963281,"Vomiting, CTCAE"
+,C3898969,Have Been Vomiting
+,C4084766,How Much Distress Vomiting
+,C4084767,Bothered by Vomiting
+,C4084768,Usual Severity Vomiting
+,C4084769,How Often Vomiting
+,C0375548,No vomiting
+,C2129186,vomit containing blood at beginning of vomiting
+,C0014498,Epidemic vomiting syndrome
+,C0018926,Hematemesis
+,C0027498,Nausea and vomiting
+,C0042964,"Vomiting, Anticipatory"
+,C0152164,Cyclical vomiting syndrome (disorder)
+,C0152165,Persistent vomiting
+,C0152517,Viral gastroenteritis
+,C0221151,Projectile vomiting
+,C0232597,Acute vomiting
+,C0232598,Chronic vomiting
+,C0232599,Vomiting bile
+,C0232601,Concealed vomiting
+,C0233757,Psychogenic vomiting
+,C0241706,Feculent vomiting
+,C0267172,Habit vomiting
+,C0269661,Vomiting of pregnancy
+violent,C0242151,Violent
+,C0232603,Violent retching
+,C0235099,Violent thoughts
+,C0237234,violent environment
+,C0282376,Assaultive Behavior
+,C0424323,Physical aggression
+,C0425151,Violent spouse
+,C0680472,Violent Crime
+,C1096573,Violent dreams
+,C1868823,Violent ideation
+,C2136263,violent event
+,C3671973,Violent sneezing
+,C4062071,Violent relationship
+,C4728017,High-energy trauma
+,C0001807,Aggressive behavior
+,C0040488,Torture
+,C0233558,Temper tantrum
+,C0424241,Violent motor activity
+,C0680471,violent and nonviolent crime
+,C0683660,violent crime and behavior
+,C0741456,BEHAVIOR VIOLENT TOWARD SELF
+,C1303202,Violent acts towards others
+,C1397151,"violent; behavior, family history"
+,C1822562,Control of violent content in the media
+,C1827876,Victim of violent environment
+hypertension,C0020538,Hypertensive disease
+,C1963138,"Hypertension, CTCAE"
+,C2748577,No hypertension
+,C0810002,Hypertension with complications and secondary hypertension
+,C1391549,"c.pregnancy; hypertension, gestational hypertension"
+,C1411597,"pregnancy; hypertension, gestational hypertension"
+,C4546218,Diastolic hypertension and systolic hypertension
+,C0018036,"Hypertension, Goldblatt"
+,C0020540,Malignant Hypertension
+,C0020541,Portal Hypertension
+,C0020542,Pulmonary Hypertension
+,C0020544,Renal hypertension
+,C0020545,"Hypertension, Renovascular"
+,C0028840,Ocular Hypertension
+,C0085580,Essential Hypertension
+,C0151740,Intracranial Hypertension
+,C0152105,Hypertensive heart disease
+,C0152170,Transient hypertension
+,C0155616,Secondary hypertension
+,C0204946,Hypertension education
+,C0206586,Endolymphatic Hydrops
+,C0221154,Paroxysmal hypertension
+,C0221155,Systolic hypertension
+,C0234708,Raised intraocular pressure (finding)
+,C0235222,Diastolic hypertension
+pain radiation,C1507012,Pain radiation
+,C1508020,PAIN RADIATION:FINDING:POINT IN TIME:*:NOMINAL
+,C0438921,Back Pain without Radiation
+,C0740363,Back Pain with Radiation
+,C0856052,Radiation associated pain
+,C2129193,abdominal pain radiating to chest
+,C2219669,abdominal pain radiation
+,C3665903,Neck pain (with radiation)
+,C4039640,Neuropathic pain due to radiation
+,C4520350,Pain following radiation therapy
+,C0856245,Low back pain (without radiation)
+,C1112757,Chest pain with radiation to left arm
+,C0221685,Lumbar spine pain with radiation below knee
+,C0511113,"Evaluate chest pain (e.g., intensity, location, radiation, duration, and precipitating and alleviating factors)"
+,C4710043,"Evaluate any episodes of chest pain (e.g., intensity, location, radiation, duration, and precipitating and alleviating factors)"
+,C4711018,"Evaluate all chest, shoulder, back or pleuritic pain (i.e., check for intensity, location, radiation, duration, and precipitating and alleviating factors)"
+weakness,C3714552,Weakness
+,C0018801,Heart failure
+,C0030552,Paresis
+,C0151786,Muscle Weakness
+,C0232132,Weak arterial pulse
+,C0241700,Voice Fatigue
+,C0424593,Attacks of weakness
+,C0426997,Weakness of sternomastoid
+,C0427053,Weakness present
+,C0427054,Weakness of neck
+,C0427055,Facial Paresis
+,C0427062,Weakness of back
+,C0427068,Monoparesis - leg
+,C0497294,paralysis/weakness
+,C0521532,Diaphragmatic paresis
+,C0542267,Weakness postural
+,C0546190,Palate weakness
+,C0546192,Larynx weakness
+,C0575810,Weakness of hand
+,C0576233,Weakness of foot
+,C0576333,Weakness of toe
+,C0577655,Quadriceps weakness
+,C0581877,Abdominal weakness
+,C0587246,Muscle weakness of limb
+,C0679397,cardiovascular deterioration
+wheezing,C0043144,Wheezing
+,C4553925,"Wheezing, CTCAE"
+,C0035234,Respiratory Sounds
+,C0035508,Rhonchi
+,C0231874,Inspiratory wheezing
+,C0231875,Expiratory wheezing
+,C0234863,Wheezing stridor
+,C0392681,Asthmatic breathing
+,C0439035,Wheezing symptom
+,C0877638,Wheezing aggravated
+,C1557642,Bronchospasm and Wheezing Adverse Event
+,C1735643,Chronic wheezing
+,C2089439,diffuse wheezing
+,C2203180,wheezing occurs only with exercise
+,C2203181,wheezing on auscultation (physical finding)
+,C2203182,wheezing recurs from time to time
+,C2203183,wheezing recurs intermittently
+,C2203185,wheezing unilaterally
+,C2237502,wheezing in both lungs
+,C3504340,Wheezing Recorders
+,C4539802,Frequent wheezing
+,C0340073,Factitious asthma
+,C0944011,Wheezing:Find:24H:Respiratory system:Ord:Reported.HIV-SSC
+,C1557643,"Grade 1 Bronchospasm and Wheezing, CTCAE"
+,C1557644,"Grade 2 Bronchospasm and Wheezing, CTCAE"
+ondansetron,C4082647,2 ML Ondansetron 2 MG/ML Injection
+,C3817867,"ONDANSETRON HYDROCHLORIDE 4 mg in 3 oral TABLET, COATED"
+,C4718880,midazolam/ketamine HCl/ondansetron HCl 3 mg-25 mg-2 mg SUBLINGUAL TROCHE
+,C4719128,ketamine/midazolam/ondansetron 25 mg-3 mg-2 mg sublingual tablet
+,C4762530,MIDAZOLAM 3 mg / KETAMINE HYDROCHLORIDE 25 mg / ONDANSETRON HYDROCHLORIDE ANHYDROUS 2 mg SUBLINGUAL TROCHE [MKO Melt Dose Pack]
+aspirin,C3486445,"BERBERIS VULGARIS ROOT BARK 3 [hp_X] in 1 mL / GLYCYRRHIZA GLABRA 3 [hp_X] in 1 mL / ARCTIUM LAPPA ROOT 3 [hp_X] in 1 mL / PHYTOLACCA AMERICANA ROOT 3 [hp_X] in 1 mL / STILLINGIA SYLVATICA ROOT 3 [hp_X] in 1 mL / TRIFOLIUM PRATENSE FLOWER 3 [hp_X] in 1 mL / SUS SCROFA ADRENAL GLAND 8 [hp_X] in 1 mL / PORK LIVER 8 [hp_X] in 1 mL / SUS SCROFA LYMPH 8 [hp_X] in 1 mL / THYROID, PORCINE 8 [hp_X] in 1 mL / ATROPA BELLADONNA 12 [hp_X] in 1 mL / IRIDIUM 12 [hp_X] in 1 mL / LYCOPODIUM CLAVATUM SPORE 12 [hp_X] in 1 mL / NITRIC ACID 12 [hp_X] in 1 mL / STRYCHNOS NUX-VOMICA SEED 12 [hp_X] in 1 mL / PHOSPHORIC ACID 12 [hp_X] in 1 mL / SELENIUM 12 [hp_X] in 1 mL / ASPIRIN 30 [hp_X] in 1 mL / CORTICOTROPIN 30 [hp_X] in 1 mL / CORTISONE ACETATE 30 [hp_X] in 1 mL / EUGENOL 30 [hp_X] in 1 mL / STEARYL ALCOHOL 30 [hp_X] in 1 mL / XYLITOL 30 [hp_X] in 1 mL / ESTRONE 30 [hp_X] in 1 mL / BENZOIC ACID 30 [hp_X] in 1 mL / CHLORINE 30 [hp_X] in 1 mL / POTASSIUM SORBATE 30 [hp_X] in 1 mL / SORBITOL 30 [hp_X] in 1 mL / RESORCINOL 30 [hp_X] in 1 mL / BENZYL ALCOHOL 30 [hp_X] in 1 mL / LACTIC ACID, DL- 30 [hp_X] in 1 mL / ISOPROPYL PALMITATE 30 [hp_X] in 1 mL / BORIC ACID 30 [hp_X] in 1 mL / ACETIC ACID 30 [hp_X] in 1 mL / PHENYLBUTAZONE 30 [hp_X] in 1 mL / PETROLATUM 30 [hp_X] in 1 mL / LEAD 30 [hp_X] in 1 mL ORAL LIQUID [Chemtox]"
+,C4256694,"GLYCERIN 3 [hp_X] in 1 mL / PHYTOLACCA AMERICANA ROOT 3 [hp_X] in 1 mL / TARAXACUM OFFICINALE 3 [hp_X] in 1 mL / ARSENIC TRIOXIDE 12 [hp_X] in 1 mL / NITRIC ACID 12 [hp_X] in 1 mL / STRYCHNOS NUX-VOMICA SEED 12 [hp_X] in 1 mL / KEROSENE 12 [hp_X] in 1 mL / PHOSPHORIC ACID 12 [hp_X] in 1 mL / PHOSPHORUS 12 [hp_X] in 1 mL / ASPIRIN 12 [hp_X] in 1 mL / NITROGLYCERIN 12 [hp_X] in 1 mL / INSULIN PORK 12 [hp_X] in 1 mL / LITHIUM CARBONATE 12 [hp_X] in 1 mL / SUS SCROFA THYROID 12 [hp_X] in 1 mL / SALICYLIC ACID 12 [hp_X] in 1 mL / CORTICOTROPIN 12 [hp_X] in 1 mL / CORTISONE ACETATE 12 [hp_X] in 1 mL / EUGENOL 12 [hp_X] in 1 mL / STEARYL ALCOHOL 12 [hp_X] in 1 mL / XYLITOL 12 [hp_X] in 1 mL / ESTRONE 12 [hp_X] in 1 mL / BENZOIC ACID 12 [hp_X] in 1 mL / CHLORINE 12 [hp_X] in 1 mL / POTASSIUM SORBATE 12 [hp_X] in 1 mL / SORBITOL 12 [hp_X] in 1 mL / RESORCINOL 12 [hp_X] in 1 mL / BENZYL ALCOHOL 12 [hp_X] in 1 mL / LACTIC ACID, DL- 12 [hp_X] in 1 mL / ISOPROPYL PALMITATE 12 [hp_X] in 1 mL / BORIC ACID 12 [hp_X] in 1 mL / ACETIC ACID 12 [hp_X] in 1 mL / PHENYLBUTAZONE 12 [hp_X] in 1 mL / PETROLATUM 12 [hp_X] in 1 mL / LEAD 12 [hp_X] in 1 mL ORAL LIQUID [Chemstat]"
+,C4530128,"GLYCERIN 3 [hp_X] in 1 mL / PHYTOLACCA AMERICANA ROOT 3 [hp_X] in 1 mL / TARAXACUM OFFICINALE 3 [hp_X] in 1 mL / ARSENIC TRIOXIDE 12 [hp_X] in 1 mL / NITRIC ACID 12 [hp_X] in 1 mL / STRYCHNOS NUX-VOMICA SEED 12 [hp_X] in 1 mL / KEROSENE 12 [hp_X] in 1 mL / PHOSPHORIC ACID 12 [hp_X] in 1 mL / PHOSPHORUS 12 [hp_X] in 1 mL / ASPIRIN 12 [hp_X] in 1 mL / NITROGLYCERIN 12 [hp_X] in 1 mL / INSULIN PORK 12 [hp_X] in 1 mL / LITHIUM CARBONATE 12 [hp_X] in 1 mL / SUS SCROFA THYROID 12 [hp_X] in 1 mL / SALICYLIC ACID 12 [hp_X] in 1 mL / CORTICOTROPIN 12 [hp_X] in 1 mL / CORTISONE ACETATE 12 [hp_X] in 1 mL / EUGENOL 12 [hp_X] in 1 mL / STEARYL ALCOHOL 12 [hp_X] in 1 mL / XYLITOL 12 [hp_X] in 1 mL / ESTRONE 12 [hp_X] in 1 mL / BENZOIC ACID 12 [hp_X] in 1 mL / CHLORINE 12 [hp_X] in 1 mL / POTASSIUM SORBATE 12 [hp_X] in 1 mL / SORBITOL 12 [hp_X] in 1 mL / RESORCINOL 12 [hp_X] in 1 mL / BENZYL ALCOHOL 12 [hp_X] in 1 mL / LACTIC ACID, DL- 12 [hp_X] in 1 mL / ISOPROPYL PALMITATE 12 [hp_X] in 1 mL / BORIC ACID 12 [hp_X] in 1 mL / ACETIC ACID 12 [hp_X] in 1 mL / PHENYLBUTAZONE 12 [hp_X] in 1 mL / PETROLATUM 12 [hp_X] in 1 mL / LEAD 12 [hp_X] in 1 mL ORAL LIQUID [Homeoplex D]"
+,C4723465,"GLYCERIN 3 [hp_X] in 1 mL / TARAXACUM OFFICINALE 3 [hp_X] in 1 mL / PHYTOLACCA AMERICANA ROOT 6 [hp_X] in 1 mL / ARSENIC TRIOXIDE 12 [hp_X] in 1 mL / NITRIC ACID 12 [hp_X] in 1 mL / STRYCHNOS NUX-VOMICA SEED 12 [hp_X] in 1 mL / KEROSENE 12 [hp_X] in 1 mL / PHOSPHORIC ACID 12 [hp_X] in 1 mL / PHOSPHORUS 12 [hp_X] in 1 mL / ASPIRIN 12 [hp_X] in 1 mL / NITROGLYCERIN 12 [hp_X] in 1 mL / INSULIN PORK 12 [hp_X] in 1 mL / LITHIUM CARBONATE 12 [hp_X] in 1 mL / SUS SCROFA THYROID 12 [hp_X] in 1 mL / SALICYLIC ACID 12 [hp_X] in 1 mL / CORTICOTROPIN 12 [hp_X] in 1 mL / CORTISONE ACETATE 12 [hp_X] in 1 mL / EUGENOL 12 [hp_X] in 1 mL / STEARYL ALCOHOL 12 [hp_X] in 1 mL / XYLITOL 12 [hp_X] in 1 mL / ESTRONE 12 [hp_X] in 1 mL / BENZOIC ACID 12 [hp_X] in 1 mL / CHLORINE 12 [hp_X] in 1 mL / POTASSIUM SORBATE 12 [hp_X] in 1 mL / SORBITOL 12 [hp_X] in 1 mL / RESORCINOL 12 [hp_X] in 1 mL / BENZYL ALCOHOL 12 [hp_X] in 1 mL / LACTIC ACID, DL- 12 [hp_X] in 1 mL / ISOPROPYL PALMITATE 12 [hp_X] in 1 mL / BORIC ACID 12 [hp_X] in 1 mL / ACETIC ACID 12 [hp_X] in 1 mL / PHENYLBUTAZONE 12 [hp_X] in 1 mL / PETROLATUM 12 [hp_X] in 1 mL / LEAD 12 [hp_X] in 1 mL ORAL LIQUID [Chemstat]"
+,C5221905,"GLYCERIN 3 [hp_X] in 1 mL / TARAXACUM OFFICINALE 3 [hp_X] in 1 mL / PHYTOLACCA AMERICANA ROOT 6 [hp_X] in 1 mL / ARSENIC TRIOXIDE 12 [hp_X] in 1 mL / NITRIC ACID 12 [hp_X] in 1 mL / STRYCHNOS NUX-VOMICA SEED 12 [hp_X] in 1 mL / KEROSENE 12 [hp_X] in 1 mL / PHOSPHORIC ACID 12 [hp_X] in 1 mL / PHOSPHORUS 12 [hp_X] in 1 mL / ASPIRIN 12 [hp_X] in 1 mL / NITROGLYCERIN 12 [hp_X] in 1 mL / INSULIN PORK 12 [hp_X] in 1 mL / LITHIUM CARBONATE 12 [hp_X] in 1 mL / THYROID, PORCINE 12 [hp_X] in 1 mL / ACETIC ACID 12 [hp_X] in 1 mL / BENZOIC ACID 12 [hp_X] in 1 mL / BENZYL ALCOHOL 12 [hp_X] in 1 mL / BORIC ACID 12 [hp_X] in 1 mL / CHLORINE 12 [hp_X] in 1 mL / CORTISONE ACETATE 12 [hp_X] in 1 mL / EUGENOL 12 [hp_X] in 1 mL / ESTRONE 12 [hp_X] in 1 mL / ISOPROPYL PALMITATE 12 [hp_X] in 1 mL / LACTIC ACID, DL- 12 [hp_X] in 1 mL / PETROLATUM 12 [hp_X] in 1 mL / PHENYLBUTAZONE 12 [hp_X] in 1 mL / LEAD 12 [hp_X] in 1 mL / POTASSIUM SORBATE 12 [hp_X] in 1 mL / RESORCINOL 12 [hp_X] in 1 mL / SALICYLIC ACID 12 [hp_X] in 1 mL / SORBITOL 12 [hp_X] in 1 mL / STEARYL ALCOHOL 12 [hp_X] in 1 mL / XYLITOL 12 [hp_X] in 1 mL / CORTICOTROPIN 15 [hp_C] in 1 mL ORAL LIQUID [Chemstat]"
+,C3882838,"COLCHICUM AUTUMNALE BULB 4 [hp_X] in 1 mL / CONIUM MACULATUM FLOWERING TOP 4 [hp_X] in 1 mL / GOLDENSEAL 4 [hp_X] in 1 mL / BILBERRY 4 [hp_X] in 1 mL / PODOPHYLLUM 5 [hp_X] in 1 mL / ASCORBIC ACID 6 [hp_X] in 1 mL / GALIUM APARINE 6 [hp_X] in 1 mL / NIACINAMIDE 6 [hp_X] in 1 mL / PYRIDOXINE HYDROCHLORIDE 6 [hp_X] in 1 mL / RIBOFLAVIN 6 [hp_X] in 1 mL / LACTIC ACID, L- 6 [hp_X] in 1 mL / THIAMINE HYDROCHLORIDE 6 [hp_X] in 1 mL / NOREPINEPHRINE 6 [hp_X] in 1 mL / .ALPHA.-LIPOIC ACID 8 [hp_X] in 1 mL / SODIUM DIETHYL OXALACETATE 8 [hp_X] in 1 mL / SULFUR 8 [hp_X] in 1 mL / ASPIRIN 10 [hp_X] in 1 mL / ANTHRAQUINONE 10 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 10 [hp_X] in 1 mL / COENZYME A 10 [hp_X] in 1 mL / UBIDECARENONE 10 [hp_X] in 1 mL / HISTAMINE DIHYDROCHLORIDE 10 [hp_X] in 1 mL / MAGNESIUM GLUCONATE 10 [hp_X] in 1 mL / NADIDE 10 [hp_X] in 1 mL / 1,4-NAPHTHOQUINONE 10 [hp_X] in 1 mL / MANGANESE PHOSPHATE, DIBASIC 15 [hp_X] in 1 mL / HYDROQUINONE 3 [hp_C] in 1 mL / SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR ENTERITIDIS 30 [hp_C] in 1 mL ORAL LIQUID [Bio Cytotox Phase]"
+,C4084101,"COLCHICUM AUTUMNALE BULB 4 [hp_X] in 1 mL / CONIUM MACULATUM FLOWERING TOP 4 [hp_X] in 1 mL / GOLDENSEAL 4 [hp_X] in 1 mL / BILBERRY 4 [hp_X] in 1 mL / PODOPHYLLUM 5 [hp_X] in 1 mL / ASCORBIC ACID 6 [hp_X] in 1 mL / GALIUM APARINE 6 [hp_X] in 1 mL / NIACINAMIDE 6 [hp_X] in 1 mL / PYRIDOXINE HYDROCHLORIDE 6 [hp_X] in 1 mL / RIBOFLAVIN 6 [hp_X] in 1 mL / LACTIC ACID, L- 6 [hp_X] in 1 mL / THIAMINE HYDROCHLORIDE 6 [hp_X] in 1 mL / NOREPINEPHRINE 6 [hp_X] in 1 mL / THIOCTIC ACID 8 [hp_X] in 1 mL / SODIUM DIETHYL OXALACETATE 8 [hp_X] in 1 mL / SULFUR 8 [hp_X] in 1 mL / ASPIRIN 10 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 10 [hp_X] in 1 mL / ANTHRAQUINONE 10 [hp_X] in 1 mL / COENZYME A 10 [hp_X] in 1 mL / HISTAMINE DIHYDROCHLORIDE 10 [hp_X] in 1 mL / MAGNESIUM GLUCONATE 10 [hp_X] in 1 mL / NADIDE 10 [hp_X] in 1 mL / 1,4-NAPHTHOQUINONE 10 [hp_X] in 1 mL / UBIDECARENONE 10 [hp_X] in 1 mL / MANGANESE PHOSPHATE, DIBASIC 15 [hp_X] in 1 mL / HYDROQUINONE 3 [hp_C] in 1 mL / PROTEUS MORGANII 30 [hp_C] in 1 mL ORAL LIQUID [Energize]"
+,C4237796,"COLCHICUM AUTUMNALE BULB 4 [hp_X] in 1 mL / CONIUM MACULATUM FLOWERING TOP 4 [hp_X] in 1 mL / GOLDENSEAL 4 [hp_X] in 1 mL / BILBERRY 4 [hp_X] in 1 mL / PODOPHYLLUM 5 [hp_X] in 1 mL / ASCORBIC ACID 6 [hp_X] in 1 mL / GALIUM APARINE 6 [hp_X] in 1 mL / NIACINAMIDE 6 [hp_X] in 1 mL / PYRIDOXINE HYDROCHLORIDE 6 [hp_X] in 1 mL / RIBOFLAVIN 6 [hp_X] in 1 mL / LACTIC ACID, L- 6 [hp_X] in 1 mL / THIAMINE HYDROCHLORIDE 6 [hp_X] in 1 mL / NOREPINEPHRINE 6 [hp_X] in 1 mL / THIOCTIC ACID 8 [hp_X] in 1 mL / SODIUM DIETHYL OXALACETATE 8 [hp_X] in 1 mL / SULFUR 8 [hp_X] in 1 mL / ASPIRIN 10 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 10 [hp_X] in 1 mL / BACILLUS ANTHRACIS IMMUNOSERUM RABBIT 10 [hp_X] in 1 mL / HISTAMINE DIHYDROCHLORIDE 10 [hp_X] in 1 mL / MAGNESIUM GLUCONATE 10 [hp_X] in 1 mL / NADIDE 10 [hp_X] in 1 mL / 1,4-NAPHTHOQUINONE 10 [hp_X] in 1 mL / PANTOTHENIC ACID 10 [hp_X] in 1 mL / UBIDECARENONE 10 [hp_X] in 1 mL / MANGANESE PHOSPHATE, DIBASIC 15 [hp_X] in 1 mL / HYDROQUININE 3 [hp_C] in 1 mL / SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR ENTERITIDIS 30 [hp_C] in 1 mL ORAL LIQUID [Energize]"
+,C4290853,"COLCHICUM AUTUMNALE BULB 4 [hp_X] in 1 mL / CONIUM MACULATUM FLOWERING TOP 4 [hp_X] in 1 mL / BILBERRY 4 [hp_X] in 1 mL / PODOPHYLLUM 5 [hp_X] in 1 mL / ASCORBIC ACID 6 [hp_X] in 1 mL / GALIUM APARINE 6 [hp_X] in 1 mL / GOLDENSEAL 6 [hp_X] in 1 mL / NIACINAMIDE 6 [hp_X] in 1 mL / PYRIDOXINE HYDROCHLORIDE 6 [hp_X] in 1 mL / RIBOFLAVIN 6 [hp_X] in 1 mL / LACTIC ACID, L- 6 [hp_X] in 1 mL / THIAMINE HYDROCHLORIDE 6 [hp_X] in 1 mL / NOREPINEPHRINE 6 [hp_X] in 1 mL / THIOCTIC ACID 8 [hp_X] in 1 mL / SODIUM DIETHYL OXALACETATE 8 [hp_X] in 1 mL / SULFUR 8 [hp_X] in 1 mL / ASPIRIN 10 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 10 [hp_X] in 1 mL / ANTHRAQUINONE 10 [hp_X] in 1 mL / HISTAMINE DIHYDROCHLORIDE 10 [hp_X] in 1 mL / MAGNESIUM GLUCONATE 10 [hp_X] in 1 mL / NADIDE 10 [hp_X] in 1 mL / NAPHTHOQUINE 10 [hp_X] in 1 mL / UBIDECARENONE 10 [hp_X] in 1 mL / PANTOTHENIC ACID 10 [hp_X] in 1 mL / MANGANESE PHOSPHATE, DIBASIC 15 [hp_X] in 1 mL / HYDROQUINONE 3 [hp_C] in 1 mL / SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR ENTERITIDIS 30 [hp_C] in 1 mL ORAL LIQUID [Bio Cytotox Phase]"
+,C4293082,"COLCHICUM AUTUMNALE BULB 4 [hp_X] in 1 mL / CONIUM MACULATUM FLOWERING TOP 4 [hp_X] in 1 mL / GOLDENSEAL 4 [hp_X] in 1 mL / BILBERRY 4 [hp_X] in 1 mL / PODOPHYLLUM 5 [hp_X] in 1 mL / ASCORBIC ACID 6 [hp_X] in 1 mL / GALIUM APARINE 6 [hp_X] in 1 mL / NIACINAMIDE 6 [hp_X] in 1 mL / PYRIDOXINE HYDROCHLORIDE 6 [hp_X] in 1 mL / RIBOFLAVIN 6 [hp_X] in 1 mL / LACTIC ACID, L- 6 [hp_X] in 1 mL / THIAMINE HYDROCHLORIDE 6 [hp_X] in 1 mL / NOREPINEPHRINE 6 [hp_X] in 1 mL / THIOCTIC ACID 8 [hp_X] in 1 mL / SODIUM DIETHYL OXALACETATE 8 [hp_X] in 1 mL / SULFUR 8 [hp_X] in 1 mL / ASPIRIN 10 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 10 [hp_X] in 1 mL / ANTHRAQUINONE 10 [hp_X] in 1 mL / COENZYME A 10 [hp_X] in 1 mL / HISTAMINE DIHYDROCHLORIDE 10 [hp_X] in 1 mL / MAGNESIUM GLUCONATE 10 [hp_X] in 1 mL / NADIDE 10 [hp_X] in 1 mL / NAPHTHOQUINE 10 [hp_X] in 1 mL / UBIDECARENONE 10 [hp_X] in 1 mL / MANGANESE PYROPHOSPHATE 15 [hp_X] in 1 mL / HYDROQUINONE 3 [hp_C] in 1 mL / SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR ENTERITIDIS 30 [hp_C] in 1 mL ORAL LIQUID [Bio Cytotox Phase]"
+,C4719684,"PODOPHYLLUM 5 [hp_X] in 1 mL / ASCORBIC ACID 6 [hp_X] in 1 mL / GALIUM APARINE 6 [hp_X] in 1 mL / GOLDENSEAL 6 [hp_X] in 1 mL / NIACINAMIDE 6 [hp_X] in 1 mL / PYRIDOXINE HYDROCHLORIDE 6 [hp_X] in 1 mL / RIBOFLAVIN 6 [hp_X] in 1 mL / LACTIC ACID, L- 6 [hp_X] in 1 mL / THIAMINE HYDROCHLORIDE 6 [hp_X] in 1 mL / THIOCTIC ACID 8 [hp_X] in 1 mL / COLCHICUM AUTUMNALE BULB 8 [hp_X] in 1 mL / CONIUM MACULATUM FLOWERING TOP 8 [hp_X] in 1 mL / SODIUM DIETHYL OXALACETATE 8 [hp_X] in 1 mL / SULFUR 8 [hp_X] in 1 mL / BILBERRY 8 [hp_X] in 1 mL / NOREPINEPHRINE 8 [hp_X] in 1 mL / ASPIRIN 10 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 10 [hp_X] in 1 mL / ANTHRAQUINONE 10 [hp_X] in 1 mL / HISTAMINE DIHYDROCHLORIDE 10 [hp_X] in 1 mL / MAGNESIUM GLUCONATE 10 [hp_X] in 1 mL / NADIDE 10 [hp_X] in 1 mL / NAPHTHOQUINE 10 [hp_X] in 1 mL / UBIDECARENONE 10 [hp_X] in 1 mL / PANTOTHENIC ACID 10 [hp_X] in 1 mL / MANGANESE PHOSPHATE, DIBASIC 15 [hp_X] in 1 mL / HYDROQUINONE 3 [hp_C] in 1 mL / SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR ENTERITIDIS 30 [hp_C] in 1 mL ORAL LIQUID [Bio Cytotox Phase]"
+,C5188115,"PODOPHYLLUM 5 [hp_X] in 1 mL / ASCORBIC ACID 6 [hp_X] in 1 mL / GALIUM APARINE 6 [hp_X] in 1 mL / GOLDENSEAL 6 [hp_X] in 1 mL / NIACINAMIDE 6 [hp_X] in 1 mL / PYRIDOXINE HYDROCHLORIDE 6 [hp_X] in 1 mL / RIBOFLAVIN 6 [hp_X] in 1 mL / LACTIC ACID, L- 6 [hp_X] in 1 mL / THIAMINE HYDROCHLORIDE 6 [hp_X] in 1 mL / THIOCTIC ACID 8 [hp_X] in 1 mL / COLCHICUM AUTUMNALE BULB 8 [hp_X] in 1 mL / CONIUM MACULATUM FLOWERING TOP 8 [hp_X] in 1 mL / SODIUM DIETHYL OXALACETATE 8 [hp_X] in 1 mL / SULFUR 8 [hp_X] in 1 mL / BILBERRY 8 [hp_X] in 1 mL / NOREPINEPHRINE BITARTRATE 10 [hp_X] in 1 mL / ASPIRIN 10 [hp_X] in 1 mL / ADENOSINE TRIPHOSPHATE DISODIUM 10 [hp_X] in 1 mL / ANTHRAQUINONE 10 [hp_X] in 1 mL / HISTAMINE DIHYDROCHLORIDE 10 [hp_X] in 1 mL / MAGNESIUM GLUCONATE 10 [hp_X] in 1 mL / NADIDE 10 [hp_X] in 1 mL / NAPHTHOQUINE 10 [hp_X] in 1 mL / UBIDECARENONE 10 [hp_X] in 1 mL / PANTOTHENIC ACID 10 [hp_X] in 1 mL / MANGANESE PHOSPHATE, DIBASIC 15 [hp_X] in 1 mL / HYDROQUINONE 3 [hp_C] in 1 mL / SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR ENTERITIDIS 30 [hp_C] in 1 mL ORAL LIQUID [Bio Cytotox Phase]"
+midazolam,C3500195,2 ML Midazolam 1 MG/ML Cartridge
+,C3853826,1 ML Midazolam 5 MG/ML Prefilled Syringe
+,C3857257,2 ML Midazolam 5 MG/ML Prefilled Syringe
+,C4048417,5 ML Midazolam 1 MG/ML Injection
+,C4048764,2 ML Midazolam 5 MG/ML Injection
+,C4048767,1 ML Midazolam 5 MG/ML Injection
+,C3265508,midazolam HCl in 0.9 % sodium chloride 3 mg/3 mL (1 mg/mL) INTRAVEN SYRINGE (ML)
+,C4718880,midazolam/ketamine HCl/ondansetron HCl 3 mg-25 mg-2 mg SUBLINGUAL TROCHE
+,C4719128,ketamine/midazolam/ondansetron 25 mg-3 mg-2 mg sublingual tablet
+,C4762523,KETAMINE HYDROCHLORIDE 25 mg / MIDAZOLAM 3 mg / HYDROXYZINE HYDROCHLORIDE 10 mg SUBLINGUAL TROCHE [MKH Dose Pack]
+,C4762530,MIDAZOLAM 3 mg / KETAMINE HYDROCHLORIDE 25 mg / ONDANSETRON HYDROCHLORIDE ANHYDROUS 2 mg SUBLINGUAL TROCHE [MKO Melt Dose Pack]
+hypertension,C0020538,Hypertensive disease
+,C1963138,"Hypertension, CTCAE"
+,C2748577,No hypertension
+,C0810002,Hypertension with complications and secondary hypertension
+,C1391549,"c.pregnancy; hypertension, gestational hypertension"
+,C1411597,"pregnancy; hypertension, gestational hypertension"
+,C4546218,Diastolic hypertension and systolic hypertension
+,C0018036,"Hypertension, Goldblatt"
+,C0020540,Malignant Hypertension
+,C0020541,Portal Hypertension
+,C0020542,Pulmonary Hypertension
+,C0020544,Renal hypertension
+,C0020545,"Hypertension, Renovascular"
+,C0028840,Ocular Hypertension
+,C0085580,Essential Hypertension
+,C0151740,Intracranial Hypertension
+,C0152105,Hypertensive heart disease
+,C0152170,Transient hypertension
+,C0155616,Secondary hypertension
+,C0204946,Hypertension education
+,C0206586,Endolymphatic Hydrops
+,C0221154,Paroxysmal hypertension
+,C0221155,Systolic hypertension
+,C0234708,Raised intraocular pressure (finding)
+,C0235222,Diastolic hypertension
+bizarre behavior,C0474407,Bizarre behavior
+,C3176600,Bizarre behavior:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4
+,C4482094,demonstrated behavior mannerisms bizarre
+,C4711801,"Monitor for abnormalities in mental status (e.g., confusion, bizarre behavior, anxiety, loss of coordination, agitation, seizure, and coma)"
+hypoglycemia,C0020615,Hypoglycemia
+,C4553659,"Hypoglycemia, CTCAE"
+,C0020617,Hypoglycemic coma
+,C0150254,Hypoglycemia management
+,C0158986,Neonatal hypoglycemia
+,C0238179,"HYPOGLYCEMIA, EXOGENOUS"
+,C0270230,Hypoglycemia of piglets
+,C0271703,Factitious hypoglycemia
+,C0271707,Autoimmune hypoglycemia
+,C0271708,Fasting Hypoglycemia
+,C0271710,Reactive hypoglycemia
+,C0271711,Spontaneous hypoglycemia
+,C0271712,Hypoglycemia of childhood
+,C0271713,Ketotic hypoglycemia
+,C0271714,"Hypoglycemia, leucine-induced"
+,C0271715,Mixed hypoglycemia
+,C0311196,Hypoglycemia diet
+,C0338545,Neuropathy associated with hypoglycemia
+,C0342315,Nocturnal hypoglycemia due to diabetes mellitus
+,C0342317,Loss of hypoglycemic warning due to diabetes mellitus
+,C0342320,Alimentary hypoglycemia
+,C0342321,Drug induced hypoglycemia
+,C0348452,Other hypoglycemia
+,C0513272,Monitor for hypoglycemia
+,C0549443,Hypoglycemia aggravated
+transport,C0600151,Adenine Nucleotide Translocator 3
+,C1159630,3-hydroxyphenyl propanoate transport
+,C1159754,glycerol-3-phosphate transport
+,C1326449,3-phenylpropionic acid transport
+,C1326494,3-hydroxyphenylpropionic acid transmembrane transport
+,C1413198,CCT6A gene
+,C0242194,"Anion Exchange Protein 1, Erythrocyte"
+,C0757202,organic anion transport protein 3
+,C1159457,2-keto-3-deoxygluconate transport
+,C1326462,3'-phosphoadenosine 5'-phosphosulfate transport
+,C1420165,SLC27A3 gene
+,C1448554,"SLC4A7 protein, human"
+,C1824754,CLPB gene
+,C2754307,"adenosine 3',5'-bisphosphate transmembrane transport"
+,C3810626,Long-Chain Fatty Acid Transport Protein 3
+,C4689900,glycerol-3-phosphate transmembrane transport
+,C0385332,"MTR3 protein, S cerevisiae"
+,C0964504,"Slco1a5 protein, rat"
+,C1307422,"SKD3 protein, mouse"
+,C1414876,FXYD3 gene
+,C1425980,EXOSC6 gene
+,C1434866,"ptr3 protein, S pombe"
+,C1571584,"SLC4A1 protein, human"
+,C3491609,"EXOSC6 protein, human"
+,C3547940,(R)-carnitine transport
+rhonchi,C0034642,Rales
+,C0035508,Rhonchi
+,C0231862,High-pitched rhonchi
+,C0231863,Low-pitched rhonchi
+,C0858640,Moist rales
+,C0859999,Dry rale
+,C2077321,inspiratory rhonchi
+,C2200449,rhonchi in left lung
+,C2200450,rhonchi in right lung
+,C2235504,expiratory rhonchi
+,C2237505,rhonchi in both lungs
+,C0436746,O/E - rhonchi present
+,C0741779,BREATH SOUND RHONCHI
+,C0741780,BREATH SOUND RHONCHI ASYMPTOMATIC
+,C2071411,rhonchi at right apex
+,C2071412,rhonchi in right mid-lung field
+,C2071413,rhonchi at right base
+,C2071414,rhonchi at left apex
+,C2071415,rhonchi in left mid-lung field
+,C2071416,rhonchi in left base
+,C2071417,rhonchi at both apices
+,C2071419,rhonchi in both bases
+,C2200427,rhonchi on both sides laterally
+,C2200428,rhonchi on both sides medially
+,C2200429,rhonchi on both sides anteromedially
+pain jaw,C0236000,Jaw pain
+,C2015951,outcomes otolaryngology: jaw pain
+,C0239064,Jaw claudication
+,C1390558,upper jaw; pain
+,C1960980,Pain radiating to jaw
+,C2032377,pain in left side of jaw
+,C2032447,pain in right side of jaw
+,C2073345,chest pain radiating to jaw
+,C2095088,ENT goal to alleviate jaw pain
+,C2108444,jaw pain during exercise
+,C2702700,pain in jaw both sides
+,C4526738,Extent Have Pain in Jaw
+,C4552061,Mandibular pain
+,C2144731,tooth pain in left lower jaw
+,C2144734,tooth pain in left upper jaw
+,C2144738,tooth pain in right lower jaw
+,C2144741,tooth pain in right upper jaw
+,C3843619,Pain in the jaw joint or in front of the ear
+,C2095206,ENT procedure possible limitations and risks discussed include residual jaw pain
+,C2095216,ENT procedure possible limitations and risks discussed include worsened jaw pain
+,C2144732,tooth pain in posterior left lower jaw
+,C2144733,tooth pain in anterior left lower jaw
+,C2144735,tooth pain in posterior left upper jaw
+,C2144736,tooth pain in anterior left upper jaw
+,C2144739,tooth pain in posterior right lower jaw
+cough,C0010200,Coughing
+,C1961131,"Cough, CTCAE"
+,C3274924,Have Been Coughing
+,C3815497,Cough (guaifenesin)
+,C4084725,Usual Severity Cough
+,C4084726,How Much Distress Cough
+,C4084727,Cough Frequency
+,C0425502,No cough
+,C0719558,Cough-X Cough Relief
+,C0003449,Antitussive Agents
+,C0010201,Chronic cough
+,C0043167,Pertussis
+,C0043168,Whooping cough due to unspecified organism
+,C0150182,Encouragement of deep breathing and coughing exercises
+,C0151574,Decreased coughing
+,C0231911,Paroxysmal cough
+,C0231912,Nocturnal cough
+,C0231914,Cough at rest
+,C0231917,Postural cough
+,C0232051,Cough reflex
+,C0234435,"Syncope, Tussive"
+,C0234866,Barking cough
+,C0239132,"COUGH, EXPLOSIVE"
+,C0239133,Hacking cough
+,C0239134,Productive Cough
+pin point pupils,C0235231,Pin point pupils
+diaphoresis,C0700590,Increased sweating
+,C1262243,Menopausal diaphoresis
+,C1559072,"Diaphoresis, CTCAE"
+,C1821822,Profuse diaphoresis
+,C1854341,obsolete Diaphoresis (with pheochromocytoma)
+,C1559073,"Grade 1 Diaphoresis, CTCAE"
+,C1559074,"Grade 2 Diaphoresis, CTCAE"
+,C2032516,pain level expressed by diaphoresis
+,C2198895,dizziness preceded by sweating
+,C4540886,Diaphoresis above the injury
+,C1861469,"Autonomic features may occur (diaphoresis, tachycardia, hyperthermia, hypertension)"
+,C4710888,"Monitor for insensible fluid loss (e.g., diaphoresis and respiratory infection)"
+,C0513022,"Monitor cardiorespiratory response to activity (e.g., tachycardia, other dysrhythmias, dyspnea, diaphoresis, pallor, hemodynamic pressures, respiratory rate)"
+,C0513301,"Monitor for loss of electrolyte-rich fluids (e.g., nasogastric suction, ileostomy drainage, diarrhea, wound drainage, and diaphoresis)"
+,C4709489,"Monitor work of breathing (e.g., respiratory rate, heart rate, use of accessory muscles, diaphoresis)"
+,C4711148,"Instruct on signs that warrant ending the procedure and reporting to health care practitioner (e.g., palpitations, diaphoresis, pallor, and shortness of breath)"
+,C4712808,"Perform a comprehensive appraisal of peripheral circulation (i.e., check peripheral pulses, edema, capillary refill), skin temperature, and diaphoresis"
+,C4709959,"Monitor for signs of hypovolemic shock (e.g., decreased blood pressure; rapid, thready pulse; increased respiratory rate; diaphoresis; restlessness; cool, clammy skin)"
+,C4712366,"Monitor for symptoms that indicate increased work of breathing (e.g., increased heart or respiratory rate, increased blood pressure, diaphoresis, changes in mental status)"
+,C4712787,"Perform a comprehensive appraisal of peripheral circulation (i.e., check peripheral pulses, edema, capillary refill, skin temperature. and diaphoresis) in any initial assessment of pacemaker patients and before initiating corrective actions"
+,C4710777,"Monitor for signs and symptoms of autonomic dysreflexia (e.g., paroxysmal hypertension, bradycardia, tachycardia, diaphoresis higher than the level of injury, facial flushing, pallor lower than the level of injury, headache, nasal congestion, engorgement of temporal and neck vessels, conjunctival congestion, chills without fever, pilomotor erection, and chest pain)"
+,C4711425,"Determine possible risk factors for fluid imbalance (e.g., albumin loss state, burns, malnutrition, sepsis, nephrotic syndrome, hyperthermia, diuretic therapy, renal pathologies, cardiac failure, diaphoresis, liver dysfunction, strenuous exercise, heat exposure, infection, postoperative state, polyuria, vomiting, and diarrhea)"
+,C4713887,"Monitor for symptoms specific to drug consumed (e.g., constricted pupils, hypotension, and bradycardia for opiate overdose; nausea, vomiting, diaphoresis, and right upper quadrant pain 48 to 72 hours after acetaminophen overdose; and dilated pupils, tachycardia, seizures, and chest pain for cocaine overdose)"
+,C4709499,"Monitor for symptoms of worsening respiratory alkalosis (e.g., alternating periods of apnea and hyperventilation, increasing anxiety, increased heart rate without increased blood pressure, dyspnea, dizziness, tingling in extremities, hyperreflexia, frequent sighing and yawning, blurred vision, diaphoresis, dry mouth, pH level of greater than 7.45, PaCO2 less than 35 mm Hg, associated hyperchloremia, HCO3 deficit)"
+,C4709520,"Monitor for signs and symptoms of PaCO2 level deficit and respiratory alkalosis (e.g., frequent sighing and yawning, tetany, paresthesia, muscular twitching, palpitations, tingling and numbness, dizziness, blurred vision, diaphoresis, dry mouth, convulsions, pH level greater than 7.45, PaCO2 less than 35 mm Hg, associated hyperchloremia, and possible HCO3 deficit)"
+fentanyl,C0995115,2 ML Fentanyl 0.05 MG/ML Cartridge
+,C4048899,2 ML Fentanyl 0.05 MG/ML Injection
+,C0937476,Fentanyl Citrate/Sodium Chloride 0.2 MG/100 ML-0.9% Intravenous Solution
+,C4048896,5 ML Fentanyl 0.05 MG/ML Injection
+,C0498905,"Injection, droperidol and fentanyl citrate, up to 2 ml ampule"
+,C1177684,"Fentanyl Citrate 2 ug in 1 mL / BUPIVACAINE HYDROCHLORIDE 1.25 mg in 1 mL EPIDURAL INJECTION, SOLUTION"
+,C1177686,Fentanyl Citrate/Ropivacaine Hydrochloride/Sodium Chloride 2 MCG/1 ML-0.2%-0.9% Epidural Solution
+,C1635189,Fentanyl Citrate/Ropivacaine Hydrochloride/Sodium Chloride 2 MCG/1 ML-0.125%-0.9% Epidural Solution
+,C1655820,Bupivacaine Hydrochloride/Fentanyl Citrate/Sodium Chloride 0.2%-2 MCG/1 ML-0.9% Epidural Solution
+,C1661185,"FENTANYL 2MCG/ROPIVACAINE 0.1%/ML/NS INJ,BAG,250ML"
+,C3267785,bupivacaine-fentanyl 0.083%-2 mcg/mL-NaCl 0.9% injectable solution
+,C4048688,Bupivacaine Hydrochloride/Fentanyl Citrate/Sodium Chloride 0.1%-0.2 MG/100 ML-0.9% Epidural Solution
+,C4048903,50 ML Fentanyl 0.05 MG/ML Injection
+,C4083196,fentaNYL 1200 MCG (2 x 600 MCG/ACTUAT) Mucosal Spray
+,C4083198,{2 (Fentanyl 0.8 MG/ACTUAT Mucosal Spray) } Pack
+,C5207476,FENTANYL CITRATE 2 mg in 1 mL NASAL SPRAY [Instanyl]
+,C0937477,Fentanyl 0.005 MG/ML Injectable Solution
+,C1345854,Fentanyl 0.004 MG/ML / Ropivacaine hydrochloride 2 MG/ML Injectable Solution
+,C2684200,Fentanyl Citrate/Ropivacaine Hydrochloride/Sodium Chloride 2 MCG/1 ML-0.08%-0.9% Epidural Solution
+,C2684481,Fentanyl Citrate/Ropivacaine Hydrochloride/Sodium Chloride 2 MCG/1 ML-0.15%-0.9% Epidural Solution
+,C2720182,Fentanyl 0.05 MG/ML Includes Injectable Solution & 2 ML Prefilled Syringe
+,C3249799,Bupivacaine Hydrochloride/Fentanyl Citrate/Sodium Chloride 0.25%-2 MCG/1 ML-0.9% Epidural Solution
+,C4083197,{2 (Fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]) } Pack [Subsys 1200 MCG]
+,C4083199,{2 (Fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]) } Pack [Subsys 1600 MCG]
+,C4084066,"FENTANYL 2MCG/ROPIVACAINE 0.15%/ML/NS INJ,BAG,250ML"
+use of accessory muscles,C0425468,Accessory respiratory muscles used
+,C3842126,Accessory muscles used with breathing
+,C2224944,exaggerated use of accessory muscles for inspiration
+,C4062395,Use of significant respiratory accessory muscles
+,C4062403,Minimal use of respiratory accessory muscles
+,C0513865,"Note chest movement, watching for symmetry, use of accessory muscles, and supraclavicular and intercostal muscle retractions"
+,C1739502,"Observe chest movement, including symmetry, use of accessory muscles, and supraclavicular and intercostal muscle retractions"
+,C4709489,"Monitor work of breathing (e.g., respiratory rate, heart rate, use of accessory muscles, diaphoresis)"
+,C0513281,"Monitor for indications of chronic respiratory acidosis (e.g., barrel chest, clubbing of nails, pursed-lips breathing, and use of accessory muscles), as appropriate"
+nausea,C0027497,Nausea
+,C1963179,"Nausea, CTCAE 3.0"
+,C2984057,Have Nausea
+,C3829611,How Much Nausea During This Period
+,C4084796,How Often Nausea
+,C4085222,How Much Distress Nausea
+,C4085661,Usual Severity Nausea
+,C4085862,Bothered by Nausea
+,C4255480,Nausea:Presence or Threshold:Point in time:^Patient:Ordinal
+,C4552888,Nausea Visual Analogue Scale
+,C4552889,Feel Nausea
+,C4553767,"Nausea, CTCAE 5.0"
+,C4761315,Nausea Subscale
+,C0423584,No nausea
+,C0026603,Motion Sickness
+,C0027498,Nausea and vomiting
+,C0240352,Morning nausea
+,C0306071,Emetrol
+,C0312416,Morning Sickness
+,C0375548,No vomiting
+,C0423583,Nausea present
+,C0520904,Postoperative Nausea
+,C0549280,Nausea aggravated
+,C0718572,Anti-Nausea
+,C0722001,Nausea Control
+delusional thoughts,C0011253,Delusions
+midazolam,C1123404,Midazolam 1 MG/ML
+,C0978647,Midazolam 1 MG/ML Injectable Solution
+,C4048416,Midazolam 1 MG/ML Injection
+,C0978649,Midazolam 5 MG/ML Injectable Solution
+,C3853826,1 ML Midazolam 5 MG/ML Prefilled Syringe
+,C4048767,1 ML Midazolam 5 MG/ML Injection
+,C0498933,"Injection, midazolam hydrochloride, per 1 mg"
+,C2920420,2 ML Midazolam 1 MG/ML Prefilled Syringe
+,C3500195,2 ML Midazolam 1 MG/ML Cartridge
+,C3503030,Midazolam 1 MG/ML Prefilled Syringe
+,C4048414,Midazolam Hydrochloride 1 MG/ML includes Injectable Solution and Injection
+,C4048415,2 ML Midazolam 1 MG/ML Injection
+,C4048417,5 ML Midazolam 1 MG/ML Injection
+,C4048763,1 ML Midazolam 5 MG/ML Cartridge
+,C5140135,Midazolam 50 MG/ML Nasal Spray
+,C3241930,"Midazolam 1 MG/ML includes Injectable Solution, Injection, Cartridge & Prefilled Syringe"
+,C0358428,Midazolam 2 MG/ML Injectable Solution
+,C1351678,Midazolam 2 MG/ML Oral Solution
+,C4048764,2 ML Midazolam 5 MG/ML Injection
+,C4048766,Midazolam 5 MG/ML Injection
+,C2980829,1 ML Midazolam 2 MG/ML Prefilled Syringe
+,C3195226,"MIDAZOLAM HYDROCHLORIDE 0.5 mg in 1 mL INTRAVENOUS INJECTION, SOLUTION"
+,C3249132,"Midazolam Hydrochloride, 1 mg/mL-D5% injectable solution"
+,C3857257,2 ML Midazolam 5 MG/ML Prefilled Syringe
+,C4048995,Midazolam 1 MG/ML includes Prefilled Syringe & Cartridge
+albuterol,C0361785,Albuterol 0.833 MG/ML / Ipratropium Bromide 0.167 MG/ML Inhalation Solution
+,C1168688,Albuterol 0.417 MG/ML Inhalation Solution
+,C1168689,Albuterol 0.21 MG/ML Inhalation Solution
+,C1696556,Albuterol 0.83 MG/ML Inhalation Solution
+,C4759880,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+rales,C0034642,Rales
+,C0240859,Basilar Rales
+,C0231862,High-pitched rhonchi
+,C0231863,Low-pitched rhonchi
+,C0231867,Medium rales
+,C0240861,"RALES, SUBCREPITANT"
+,C0277863,Atelectatic rales
+,C0425543,Coarse respiratory crackles
+,C0425544,Fine respiratory crackles
+,C0425547,Post-tussive crackles
+,C0577961,Inspiratory crackles
+,C0577962,Expiratory crackles
+,C0858640,Moist rales
+,C3842114,Rales-right
+,C3842115,Rales-left
+,C0231880,Superficial crackling rales
+,C0240860,"RALES, BASILAR, RIGHT"
+,C0240862,"RALES, SUBCREPITANT, BILATERAL"
+,C0425546,Bubbling crackles
+,C0741774,BREATH SOUND RALES
+,C0741775,BREATH SOUND RALES ASYMPTOMATIC
+,C0741776,BREATH SOUND RALES DIFFUSE
+,C0741777,BREATH SOUND RALES FINE
+,C0741778,BREATH SOUND RALES NEW
+,C2036407,stress test-induced rales
+diaphoresis,C0700590,Increased sweating
+,C1262243,Menopausal diaphoresis
+,C1559072,"Diaphoresis, CTCAE"
+,C1821822,Profuse diaphoresis
+,C1854341,obsolete Diaphoresis (with pheochromocytoma)
+,C1559073,"Grade 1 Diaphoresis, CTCAE"
+,C1559074,"Grade 2 Diaphoresis, CTCAE"
+,C2032516,pain level expressed by diaphoresis
+,C2198895,dizziness preceded by sweating
+,C4540886,Diaphoresis above the injury
+,C1861469,"Autonomic features may occur (diaphoresis, tachycardia, hyperthermia, hypertension)"
+,C4710888,"Monitor for insensible fluid loss (e.g., diaphoresis and respiratory infection)"
+,C0513022,"Monitor cardiorespiratory response to activity (e.g., tachycardia, other dysrhythmias, dyspnea, diaphoresis, pallor, hemodynamic pressures, respiratory rate)"
+,C0513301,"Monitor for loss of electrolyte-rich fluids (e.g., nasogastric suction, ileostomy drainage, diarrhea, wound drainage, and diaphoresis)"
+,C4709489,"Monitor work of breathing (e.g., respiratory rate, heart rate, use of accessory muscles, diaphoresis)"
+,C4711148,"Instruct on signs that warrant ending the procedure and reporting to health care practitioner (e.g., palpitations, diaphoresis, pallor, and shortness of breath)"
+,C4712808,"Perform a comprehensive appraisal of peripheral circulation (i.e., check peripheral pulses, edema, capillary refill), skin temperature, and diaphoresis"
+,C4709959,"Monitor for signs of hypovolemic shock (e.g., decreased blood pressure; rapid, thready pulse; increased respiratory rate; diaphoresis; restlessness; cool, clammy skin)"
+,C4712366,"Monitor for symptoms that indicate increased work of breathing (e.g., increased heart or respiratory rate, increased blood pressure, diaphoresis, changes in mental status)"
+,C4712787,"Perform a comprehensive appraisal of peripheral circulation (i.e., check peripheral pulses, edema, capillary refill, skin temperature. and diaphoresis) in any initial assessment of pacemaker patients and before initiating corrective actions"
+,C4710777,"Monitor for signs and symptoms of autonomic dysreflexia (e.g., paroxysmal hypertension, bradycardia, tachycardia, diaphoresis higher than the level of injury, facial flushing, pallor lower than the level of injury, headache, nasal congestion, engorgement of temporal and neck vessels, conjunctival congestion, chills without fever, pilomotor erection, and chest pain)"
+,C4711425,"Determine possible risk factors for fluid imbalance (e.g., albumin loss state, burns, malnutrition, sepsis, nephrotic syndrome, hyperthermia, diuretic therapy, renal pathologies, cardiac failure, diaphoresis, liver dysfunction, strenuous exercise, heat exposure, infection, postoperative state, polyuria, vomiting, and diarrhea)"
+,C4713887,"Monitor for symptoms specific to drug consumed (e.g., constricted pupils, hypotension, and bradycardia for opiate overdose; nausea, vomiting, diaphoresis, and right upper quadrant pain 48 to 72 hours after acetaminophen overdose; and dilated pupils, tachycardia, seizures, and chest pain for cocaine overdose)"
+,C4709499,"Monitor for symptoms of worsening respiratory alkalosis (e.g., alternating periods of apnea and hyperventilation, increasing anxiety, increased heart rate without increased blood pressure, dyspnea, dizziness, tingling in extremities, hyperreflexia, frequent sighing and yawning, blurred vision, diaphoresis, dry mouth, pH level of greater than 7.45, PaCO2 less than 35 mm Hg, associated hyperchloremia, HCO3 deficit)"
+,C4709520,"Monitor for signs and symptoms of PaCO2 level deficit and respiratory alkalosis (e.g., frequent sighing and yawning, tetany, paresthesia, muscular twitching, palpitations, tingling and numbness, dizziness, blurred vision, diaphoresis, dry mouth, convulsions, pH level greater than 7.45, PaCO2 less than 35 mm Hg, associated hyperchloremia, and possible HCO3 deficit)"
+sleepiness,C0013144,Drowsiness
+,C2830004,Somnolence
+,C0541854,Daytime sleepiness
+,C0917799,Hypersomnia
+,C0027404,Narcolepsy
+,C0393766,Postviral excessive daytime sleepiness
+,C0858780,Feeling of residual sleepiness
+,C2126117,fainting followed by prolonged sleepiness
+,C2219848,Daytime somnolence
+,C2228963,medicated level of sleepiness
+,C3541276,Epworth Sleepiness Scale Questionnaire
+,C3639428,MDS-UPDRS - Daytime Sleepiness
+,C4551761,Excessive daytime sleepiness
+,C4706348,ESS (Epworth Sleepiness Scale) score
+,C0393765,Excessive day and night-time sleepiness
+,C0393767,Excessive daytime sleepiness with sleep paralysis
+,C4706326,Assessment using ESS (Epworth Sleepiness Scale)
+,C0393764,Excessive daytime sleepiness - normal night sleep
+,C0694563,Excessive daytime somnolence
+,C2931865,"Irresistible sleepiness, cataplexy and onset of sleep in desynchronized phase"
+,C3641277,CDISC Questionnaire ESS Test Name Terminology
+,C3641278,CDISC Questionnaire ESS Test Code Terminology
+,C2129304,likelihood fall asleep during day total Epworth score
+,C3174126,Does your child have a problem with sleepiness during the day:Find:Pt:^Patient:Ord:PhenX
+,C3174127,Does your child have a problem with sleepiness during the day
+tachycardia,C0039231,Tachycardia
+,C3827868,Tachycardia by ECG Finding
+,C0039235,"Tachycardia, Ectopic Junctional"
+,C0039236,"Tachycardia, Paroxysmal"
+,C0039239,Sinus Tachycardia
+,C0039240,Supraventricular tachycardia
+,C0042514,"Tachycardia, Ventricular"
+,C0221047,Bradycardia-tachycardia syndrome
+,C0232211,Idiojunctional tachycardia
+,C0241324,"TACHYCARDIA, EXERTIONAL"
+,C0242514,"Tachycardia, Reciprocating"
+,C0340468,Sinoatrial node tachycardia
+,C0340471,Atrioventricular tachycardia
+,C0344428,Ventricular Tachycardia by ECG Finding
+,C0392191,Irregular tachycardia
+,C0410918,Fetal tachycardia
+,C0428982,AV junctional (nodal) tachycardia
+,C0457252,Baseline tachycardia
+,C0546959,Atrial tachycardia
+,C0549268,Tachycardia aggravated
+,C0749248,TACHYCARDIA REST
+,C0749250,TACHYCARDIA WITH ECTOPY
+,C0849662,supraventicular tachycardia
+,C0858524,Tachycardia nervous
+,C0877308,Neonatal tachycardia
+fever,C0015967,Fever
+,C0424755,Fever symptoms (finding)
+,C4552740,"Fever, CTCAE"
+,C0024530,Malaria
+,C0040830,Trench Fever
+,C0043397,Jungle yellow fever
+,C1313924,"screening; fever, yellow fever"
+,C1401679,glandular fever; fever
+,C1401748,fever; screening hemorrhagic fever
+,C1401765,fever; blackwater fever
+,C1401741,"fever; Mediterranean, tick fever (rickettsiosis, spotted fever)"
+,C0002797,Bovine Anaplasmosis
+,C0003175,Anthrax disease
+,C0004771,Bartonella Infections
+,C0005681,Blackwater Fever
+,C0006060,Boutonneuse Fever
+,C0006309,Brucellosis
+,C0006391,Bunyamwera virus disease
+,C0006542,Byssinosis
+,C0008055,Chikungunya Fever
+,C0009186,Coccidioidomycosis
+,C0009400,Colorado Tick Fever
+,C0009952,Febrile Convulsions
+,C0011311,Dengue Fever
+,C0014481,Ephemeral Fever
+oral glucose,C2188683,urine glucose 3 hours post oral glucose tolerance test
+,C2208795,blood glucose measurement 3 hours post oral glucose tolerance test
+,C2022282,prenatal oral glucose tolerance test 3 hours
+,C2022274,prenatal oral glucose tolerance test 3 hour value
+,C2317816,prenatal oral glucose tolerance test 3 hour DEX 100g
+,C3666478,"nutritional therapy, glucose intolerance,soy 3 gram-80 kcal/20 gram ORAL BAR"
+,C4530024,SYZYGIUM CUMINI SEED 3 [hp_X] in 1 mL / SUS SCROFA ADRENAL GLAND 6 [hp_X] in 1 mL / GOLDENSEAL 6 [hp_X] in 1 mL / SUS SCROFA PITUITARY GLAND 6 [hp_X] in 1 mL / SUS SCROFA PANCREAS 6 [hp_X] in 1 mL / KIDNEY BEAN 9 [hp_X] in 1 mL / ACETIC ACID 12 [hp_X] in 1 mL / LACTIC ACID 12 [hp_X] in 1 mL / PHOSPHORIC ACID 12 [hp_X] in 1 mL / PHOSPHORUS 12 [hp_X] in 1 mL / URANYL NITRATE HEXAHYDRATE 12 [hp_X] in 1 mL ORAL LIQUID [Glucose Control T015]
+tenderness,C0234233,Sore to touch
+,C0684239,Emotional tenderness
+,C0151206,Scalp tenderness
+,C0151767,Liver tender
+,C0232498,Abdominal tenderness
+,C0234242,Pain and tenderness
+,C0234246,Rebound tenderness
+,C0235634,Renal angle tenderness
+,C0238594,Adnexal tenderness
+,C0238745,back tenderness
+,C0238807,Bone tenderness
+,C0238861,BURSAL TENDERNESS
+,C0238883,CALF TENDERNESS
+,C0238964,CERVICAL TENDERNESS
+,C0239008,Chest wall tenderness
+,C0239230,EAR TENDERNESS
+,C0239279,Epididymal tenderness
+,C0239408,Tenderness in limb
+,C0239435,Tenderness eye
+,C0239470,tenderness on palpation of eyelid
+,C0239532,Facial tenderness
+,C0239610,FINGERTIP TENDERNESS
+,C0239682,FOREHEAD TENDERNESS
+,C0239730,GENITAL TENDERNESS
+,C0239739,Tenderness of gums
+hallucinations,C0018524,Hallucinations
+,C4553314,"Hallucinations, CTCAE"
+,C0029226,"Hallucinations, Organic"
+,C0233759,"Hallucinations, Elementary"
+,C0233760,Functional hallucinations
+,C0233761,Extracampine hallucinations
+,C0233762,"Hallucinations, Auditory"
+,C0233763,"Hallucinations, Visual"
+,C0233765,"Hallucinations, Olfactory"
+,C0233766,"Hallucinations, Gustatory"
+,C0233767,"Hallucinations, Tactile"
+,C0233773,"Hallucinations, Hypnagogic"
+,C0233774,"Hallucinations, Somatic"
+,C0235153,"Hallucinations, Sensory"
+,C0242004,MUSHROOM HALLUCINOSIS
+,C0424068,Verbal auditory hallucinations
+,C0424070,Hallucinations of music
+,C0424076,Hallucinations of pain
+,C0424077,Hallucinations of temperature
+,C0424078,Hallucinations in several modalities at once
+,C0424081,Sexual hallucinations
+,C0424082,"Hallucinations, Hypnapompic"
+,C0424083,"Hallucinations, Dissociative"
+,C0478138,Other hallucinations
+,C0544668,"Hallucinations, Kinesthetic"
+nausea,C0027497,Nausea
+,C1963179,"Nausea, CTCAE 3.0"
+,C2984057,Have Nausea
+,C3829611,How Much Nausea During This Period
+,C4084796,How Often Nausea
+,C4085222,How Much Distress Nausea
+,C4085661,Usual Severity Nausea
+,C4085862,Bothered by Nausea
+,C4255480,Nausea:Presence or Threshold:Point in time:^Patient:Ordinal
+,C4552888,Nausea Visual Analogue Scale
+,C4552889,Feel Nausea
+,C4553767,"Nausea, CTCAE 5.0"
+,C4761315,Nausea Subscale
+,C0423584,No nausea
+,C0026603,Motion Sickness
+,C0027498,Nausea and vomiting
+,C0240352,Morning nausea
+,C0306071,Emetrol
+,C0312416,Morning Sickness
+,C0375548,No vomiting
+,C0423583,Nausea present
+,C0520904,Postoperative Nausea
+,C0549280,Nausea aggravated
+,C0718572,Anti-Nausea
+,C0722001,Nausea Control
+abuse of substance,C0687130,Substance of abuse
+,C0740858,Substance abuse problem
+,C2712114,Actual Positive Absence Of Substance Use
+,C0013146,Drug abuse
+,C0013170,Drug habituation
+,C0025460,Mescaline
+,C0031381,Phencyclidine
+,C0033880,Psychoactive substance abuse
+,C0038577,Substance Abuse Detection
+,C0038579,"Substance Abuse, Intravenous"
+,C0079256,Substance Abuse Treatment Centers
+,C0236935,"Substance Abuse, Other"
+,C0236936,Unknown Substance Abuse
+,C0443078,Psychoactive substance of abuse - non-pharmaceutical
+,C0597730,substance abuse epidemiology
+,C0683030,AODD recovery
+,C0683031,aodd relapse
+,C0683435,CIDI Substance Abuse Module
+,C0683436,Substance Abuse Attitude Survey
+,C0730421,Substance abuse counseling
+,C0743244,Chronic drug abuse
+,C0747965,PREVENTION ISSUE SUBSTANCE ABUSE
+,C0749114,SUBSTANCE ABUSE DATERANGE
+,C0749115,substance abuse pregnancy
+,C0749116,SUBSTANCE ABUSE PREGNANCY ACID
+shortness of breath,C0013404,Dyspnea
+,C2707305,Shortness of breath:-:Point in time:^Patient:-
+,C3274920,Have Shortness of Breath question
+,C4054349,No Shortness of Breath
+,C4084762,Usual Severity Shortness of Breath
+,C4084763,How Often Shortness of Breath
+,C4084764,How Much Distress Shortness of Breath
+,C4553552,Shortness of Breath Visual Analogue Scale
+,C0231807,Dyspnea on exertion
+,C0517527,SHORTNESS OF BREATH NOT PRESENT
+,C0574066,Increasing breathlessness
+,C0743330,Resting Dyspnea
+,C0748641,SHORTNESS OF BREATH ACUTE
+,C0748642,SHORTNESS OF BREATH CHRONIC
+,C0748643,SHORTNESS OF BREATH EPISODE
+,C0748644,SHORTNESS OF BREATH EXTREME
+,C0748646,shortness of breath intermittent
+,C0748647,SHORTNESS OF BREATH NEW ONSET
+,C0748648,SHORTNESS OF BREATH PROGRESSIVE
+,C0748649,shortness of breath rest
+,C0748650,SHORTNESS OF BREATH STABLE CHRONIC
+,C0946383,Shortness of breath with activity
+,C1275492,CLASP shortness of breath score
+,C1963100,"Dyspnea, CTCAE"
+,C3641530,PHQ-15 - Shortness of Breath
+lightheadedness,C0012833,Dizziness
+,C0220870,Lightheadedness
+,C0234987,Postural dizziness
+,C2183876,lightheadedness with collapse
+,C3639673,PDQUALIF - Lightheadedness
+,C2183875,lightheadedness during exercise
+,C3639432,MDS-UPDRS - Lightheadedness on Standing
+,C3842980,"Lightheadedness, dizziness, or loss of balance"
+,C4716273,Lightheadedness on standing abruptly
+,C4716603,Relationship of lightheadedness to dysrhythmia
+,C4717766,Report episodes of lightheadedness or dizziness to health provider
+,C4711218,"Monitor exercise tolerance (e.g., presence of such symptoms as breathlessness, rapid pulse, pallor, lightheadedness, joint or muscle pain or swelling) during exercise"
+,C4711426,"Determine whether patient is experiencing thirst or symptoms of fluid changes (e.g., dizziness, change of mentation, lightheadedness, apprehension, irritability, nausea, twitching)"
+,C4711690,"Recognize presence of early warning signs and symptoms of compromised hemodynamic system (e.g., dyspnea, decreased ability to exercise, orthopnea, profound fatigue, dizziness, lightheadedness, edema, palpitations, paroxysmal nocturnal dyspnea, sudden weight gain)"
+hyperthermia,C0015967,Fever
+,C0203597,hyperthermia treatment
+,C0020548,Induced Hyperthermia
+,C0020549,"Hyperthermia, Local"
+,C0024591,Malignant hyperpyrexia due to anesthesia
+,C0150611,Therapeutic heat application
+,C0181245,Hyperthermia Blankets
+,C0181252,"Ultrasound Therapy Systems, Hyperthermia"
+,C0277799,Intermittent fever (finding)
+,C0410943,Hyperthermia in newborn
+,C0424788,Endocrine hyperthermia
+,C0858753,Hyperthermia sudden
+,C0864460,Hyperthermia NEC
+,C0943768,Hyperthermia:Find:Pt:^Patient:Ord:Observed.CCC
+,C1322848,"Microspheres, Embolization, Hyperthermia"
+,C1387395,hyperthermia; history
+,C1844631,Susceptible to hyperthermia
+,C2047574,hyperthermia induction
+,C2094505,radiation hyperthermia treatment
+,C2316873,Neurogenic hyperthermia
+,C2457713,Hyperthermia of Brain
+,C2457933,Hyperthermia of Thymus
+,C2457935,Hyperthermia of Spleen
+,C2457973,Hyperthermia of Eye
+,C2458249,Hyperthermia of Ear
+rebound tenderness,C0234246,Rebound tenderness
+,C0238569,Abdominal rebound tenderness
+,C0436944,O/E - rebound tenderness
+,C0436945,O/E - no rebound tenderness
+,C0558838,Rebound tenderness absent
+,C0578102,Rebound tenderness of epigastrium
+,C0578103,Rebound tenderness of right hypochondrium
+,C0578104,Rebound tenderness of left hypochondrium
+,C0578105,Rebound tenderness of central region
+,C0578106,Rebound tenderness of right lumbar
+,C0578107,Rebound tenderness of left lumbar
+,C0578108,Rebound tenderness of hypogastrium
+,C0740629,ABDOMEN SIGN REBOUND TENDERNESS
+,C2010786,generalized rebound abdominal tenderness
+,C2053955,rebound tenderness of periumbilical region
+,C2169877,referred rebound abdominal tenderness
+,C2729502,rebound tenderness of left lower quadrant of abdomen
+,C2729503,rebound tenderness of left upper quadrant of abdomen
+,C2729504,rebound tenderness of right upper quadrant of abdomen
+,C2729505,rebound tenderness of right lower quadrant of abdomen
+,C2910393,Periumbilic rebound abdominal tenderness
+,C2910394,epigastric rebound abdominal tenderness
+,C0578109,Rebound tenderness of right iliac fossa
+,C0578110,Rebound tenderness of left iliac fossa
+,C2910395,"Rebound abdominal tenderness, unspecified site"
+oxygen,C1305844,Oxygen 2 %
+,C0257670,"L-tryptophan 2',3'-oxidase"
+,C0462871,Ohmeda Domic 2/4 1550033 oxygen set
+,C1097665,phenylacetate 2-hydroxylase
+,C1259706,"OEE2 protein, Arabidopsis"
+,C2753891,peptidyl-lysine 5-dioxygenase activity
+,C0759095,"2-2'-dimethoxy-3,3'-dihydro-5,5'-oxygen-6,6'-biphenylformic anhydride"
+,C2605050,paesuffrioside
+,C0061031,"gamma-butyrobetaine,2-oxoglutarate dioxygenase"
+,C0258818,"gibberellin, 2-oxoglutarate-oxygen oxidoreductase (20-hydroxylating, oxidizing)"
+,C0300366,"2-oxo-1,2-dihydroquinoline 8-monooxygenase"
+,C0382230,"2-oxo-1,2-dihydroquinoline 5,6-dioxygenase"
+,C2243266,"(gibberrellin-20),2-oxoglutarate: oxygen oxidoreductase (3beta-hydroxylating)"
+,C2598281,Respiratory status with oxygen therapy during 2D assessment period:Find:2D:^Patient:Ord:CARE
+,C4062434,Decrease in partial pressure of oxygen (PO<sub>2</sub>)
+,C4062436,Decrease in arterial oxygen saturation (SaO<sub>2</sub>)
+,C1151436,2-oxoglutarate-dependent dioxygenase activity
+,C0530823,"1H-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase (decyclizing, CO-forming)"
+,C1151446,procollagen-proline 3-dioxygenase activity
+,C1324371,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, with 2-oxoglutarate as one donor, and the other dehydrogenated"
+,C2016139,oxygen concentrator O2 concentration 85% or greater with maximum specified flow rate greater than 2 L/min
+,C2016143,oxygen concentrator O2 concentration 85% or greater with maximum specified flow rate not greater than 2 L/min
+,C2047424,oxygen via hyperbaric chamber 2.8 ATA O2 for 90 min with 2 5-min air breaks
+,C2598283,Respiratory status without oxygen therapy during 2D assessment period:Find:2D:^Patient:Ord:CARE
+,C3663712,Adenosine 0.4 MG/ML / Niacinamide 20 MG/ML Topical Cream
+chest pressure,C0438716,Chest pressure
+,C0232285,Dull chest pain
+,C0850018,pressure in chest and heart
+,C1142568,Chest pressure exertional
+,C1707376,Chest Tightness or Pressure
+,C2073391,chest tightness or heavy pressure
+,C3842521,Pain or pressure in chest
+,C0413308,Asphyxiation by sustained compression of chest
+,C2451809,Change Pressure Dressing on Chest Wall
+,C2452323,Removal of Pressure Dressing on Chest Wall
+,C2451810,Change Intermittent Pressure Device on Chest Wall
+,C2452045,Compression of Chest Wall using Pressure Dressing
+,C2452046,Compression of Chest Wall using Intermittent Pressure Device
+,C2452324,Removal of Intermittent Pressure Device on Chest Wall
+,C3263482,Did you have chest pain or pressure:Finding:Point in time:^Patient:Ordinal
+,C3263483,Did you have chest pain or pressure
+,C0802710,Carbon dioxide^during chest physiotherapy:PPres:Pt:BldC:Qn
+,C0802716,Carbon dioxide^post chest physiotherapy:PPres:Pt:BldC:Qn
+,C0802722,Carbon dioxide^pre chest physiotherapy:PPres:Pt:BldC:Qn
+,C0802815,Oxygen^during chest physiotherapy:PPres:Pt:BldC:Qn
+,C0802838,Oxygen^post chest physiotherapy:PPres:Pt:BldC:Qn
+,C0802844,Oxygen^pre chest physiotherapy:PPres:Pt:BldC:Qn
+,C2480669,Placement @ Anatomical Regions @ Change @ Chest Wall @ External @ Pressure Dressing
+,C2480670,Placement @ Anatomical Regions @ Change @ Chest Wall @ External @ Intermittent Pressure Device
+,C2480966,Placement @ Anatomical Regions @ Compression @ Chest Wall @ External @ Pressure Dressing
+bradypnea,C0231837,Slow respiration
+,C4713864,"Monitor respiratory and cardiac systems (e.g., hypertension, tachycardia, and bradypnea)"
+,C4713438,"Monitor breathing patterns (e.g., bradypnea, tachypnea, hyperventilation, Kussmaul respirations, Cheyne-Stokes respirations, apneustic, Biot's respiration, ataxic patterns)"
+mental status changes,C0856054,Mental status changes
+,C0919570,Mental status changes postoperative
+,C1735907,Acute mental status changes
+,C2036402,stress test-induced mental status changes
+,C4712366,"Monitor for symptoms that indicate increased work of breathing (e.g., increased heart or respiratory rate, increased blood pressure, diaphoresis, changes in mental status)"
+,C4713703,"Monitor for signs of inadequate tissue oxygenation (e.g., apprehension, increased anxiety, changes in mental status, agitation, oliguria, and cool, mottled periphery)"
+,C4714005,"Determine presence of patient trigger areas for immediate response (e.g., change in vital signs, low or elevated heart rate, low or elevated blood pressure, difficulty breathing, low oxygen saturation despite increasing oxygen delivery, change in level of consciousness, repeated or prolonged seizures, chest pain, acute changes in mental status, or when nurse or patient ""just feels something is wrong"")"
+distension,C0012359,Pathological Dilatation
+,C1291077,Abdominal bloating
+,C3714614,Distention
+,C0000731,Abdomen distended
+,C0005687,Bladder distention
+,C0151994,Enlarged uterus
+,C0392025,Enlargement abdomen
+,C0408217,Distension of joint
+,C0520562,Dilatation of intestine
+,C0521620,Dilatation of ureter
+,C0598484,colon distension
+,C0848337,gastric distention
+,C1391754,distension; cecum
+,C1397941,Distension of gall-bladder
+,C1402857,liver; distension
+,C1408067,uterus; distension
+,C1408282,kidney; distension
+,C2747824,Distended bowel
+,C2747825,Distended ureter
+,C3687314,Intracelomic distension
+,C3873905,Distension system
+,C4553311,"Abdominal Distension, CTCAE"
+,C4728175,Pelvic distension
+,C0149823,Acute dilatation of stomach
+,C0181417,Irrigation/distension system
+substance abuse history,C1269662,Assessment of history of substance abuse
+,C1299544,History of substance abuse
+,C1397159,Family history of substance abuse
+,C0476560,Encounter for family history of alcohol abuse
+,C0476561,Family history of tobacco abuse
+,C0478622,Family history of other substance abuse
+,C0481423,Personal history of psychoactive substance abuse
+,C0547881,Assess and document substance abuse history.
+,C0806394,History of present alcohol &or substance abuse
+,C1397160,"psychoactive; substance, abuse, family history"
+,C2728279,reported family history of substance abuse
+,C2957819,rnax evaluate substance abuse history
+,C3161674,reported family history of substance abuse - father
+,C3161675,reported family history of substance abuse - mother
+,C3161676,reported family history of substance abuse - brother
+,C3161677,reported family history of substance abuse - sister
+,C3161678,reported family history of substance abuse - husband
+,C3161679,reported family history of substance abuse - wife
+,C0496707,Family history of other psychoactive substance abuse
+,C2911222,Family history of other psychoactive substance abuse and dependence
+,C2911224,Family history of other substance abuse and dependence
+,C3161680,reported family history of substance abuse - domestic partner
+,C0801690,History of present alcohol &or substance abuse:Hx:Pt:^Patient:Nar
+,C0511702,"Identify parents who have a history of substance abuse, depression, or major psychiatric illness"
+,C0943281,"Deprecated Alcohol-substance abuse rehabilitation treatment plan, Past medical history and Level of function (narrative)"
+dysrhythmia,C0003811,Cardiac Arrhythmia
+,C0085611,Atrial arrhythmia
+,C0085612,Ventricular arrhythmia
+,C0150191,Dysrhythmia management
+,C0232595,Abnormal gastric electrical activity
+,C0264886,Conduction disorder of the heart
+,C0455991,Fetal dysrhythmia
+,C0856486,Circadian dysrhythmia
+,C0948018,Arrhythmia prophylaxis
+,C1392243,cerebral; dysrhythmia
+,C1394140,cortical; dysrhythmia
+,C1533637,Neonatal dysrhythmia
+,C4716601,Type of dysrhythmia
+,C0513465,Monitor hemodynamic response to the dysrhythmia
+,C0513872,Note frequency and duration of dysrhythmia
+,C0561869,ECG automated dysrhythmia monitoring
+,C1391961,"dysrhythmia; cardiac, postoperative"
+,C1395970,dysrhythmia; cerebral or cortical
+,C2051746,stress electrocardiogram: dysrhythmia at peak stress
+,C2231284,non-reassuring dysrhythmia
+,C3844448,Cardiac dysrhythmia (irregular heartbeat)
+,C4015474,Chronic atrial and intestinal dysrhythmia
+,C4714945,Knowledge: Dysrhythmia Management
+,C4715035,Self-Management: Dysrhythmia
+,C4716602,Signs and symptoms of dysrhythmia
+oxygen,C0916139,N-Myc Downstream Regulated Protein 1
+,C1334873,NDRG1 gene
+,C1419605,RP1 gene
+,C1585598,Oxygen 100 % Gas for Inhalation
+,C1424062,ROMO1 gene
+,C1431938,"RP1 protein, human"
+,C1163085,Oxygen 21 % Gas for Inhalation
+,C1164295,Oxygen 99.2 % Gas for Inhalation
+,C0979217,Oxygen 99 % Gas for Inhalation
+,C0979218,Oxygen 99.5 % Gas for Inhalation
+,C1305553,Oxygen 100 %
+,C1432561,"oxygen-evolving enhancer protein 1, plant"
+,C1744120,"Romo1 protein, mouse"
+,C1744461,"ROMO1 protein, human"
+,C2984411,Hypoxia and Oxygen Homeostasis Regulation of HIF-1-Alpha Pathway
+,C1585555,Helium 80 % / Oxygen 20 % Gas for Inhalation
+,C0498450,"Portable oxygen contents, gaseous, 1 month's supply = 1 unit"
+,C0498451,"Portable oxygen contents, liquid, 1 month's supply = 1 unit"
+,C1314597,"Oxygen contents, gaseous, 1 unit equals 1 cubic foot"
+,C1314598,"Oxygen contents, liquid, 1 unit equals 1 pound"
+,C2729173,"Stationary oxygen contents, gaseous, 1 month's supply = 1 unit"
+,C2729174,"Stationary oxygen contents, liquid, 1 month's supply = 1 unit"
+,C0648757,alkanol monooxygenase (FMN-linked)
+,C0979219,Oxygen 99.6 % Gas for Inhalation
+,C0979220,Oxygen 99.9 % Gas for Inhalation

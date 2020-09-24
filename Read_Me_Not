@@ -1,0 +1,165 @@
+Filename: Getting Started
+Creation Date: 5_11_2020
+Author: Taylor Patrick
+
+This document includes steps, processes and files needed to run RAA_Data_Process.ipynb from Sile_Shu Box folder
+
+Files and Folders
+- must be in working directory
+renewconceptlists
+	All_in_One_interventions.xlsx 
+	All_In_One_signs&symptoms.xlsx
+	RAA_interventions_50candidateConceptsWDistance_MedEMS.txt
+	RAA_interventions_50candidateConcepts_MedEMS.txt
+annotator.py 
+annotator.pyc
+Authentication.py
+Authentication.pyc
+AutoLabelCases(HaydonAdditions).xlsxfjdli
+behaviours.py
+behavours.pyc
+CLfromVT.csv
+ConceptExtract.py
+ConceptExtract.pyc
+Concept_List_1.csv
+concept_list(interventions).csv
+concept_list(s&s)_revised.csv
+GoogleNews-vectors-negative300.bin [Need to download separately, refer to directions below]
+Intervention Safety Sheet.xlsx
+NLPutils.py
+NLPutils.pyc
+ODEMSA_Protocols_weighted.xlsx
+RAA Data 2017.xlsx
+RAA_data_process.ipynb
+RAA_train.xlsx
+ranking_func.py
+ranking_func.pyc
+RC.csv
+search_term.py
+search_term.pyc
+VecMethEval_ODEMSA_weighted&revised.xlsx
+
+Must install the following packages 
+- github repo troubleshooting and manual ReadMe on dependencies 
+	- https://github.com/UVA-DSA/EMS-Pipeline/blob/master/Demo/reqs_details.txt
+(if you use anaconda/ipynb numpy, pandas, scipy should already be installed)
+pip install numpy
+pip install pandas
+pip install scipy
+XXX pyqt4 ????
+pip/conda install fpdf
+pip install py-trees==0.6.5
+pip/X=>/conda install nlkt ????	
+pip install xlrd
+pip install google-cloud-core (idk if needed)
+pip install google-cloud-speech (idk)
+pip install deepspeech (idk)
+pip install pygame
+pip install tqdm
+
+Programs
+sudo apt install default-jre {if which java returns nothing}
+
+Dowloading other files and packages
+=> Go to https://git-lfs.github.com/
+- Download the correct version for your operating system (v2.10.0 (Linux))
+- Extract the file
+- Run the following command in terminal 	
+	- Must be in the directory of the extracted file  
+	- sudo apt install git-lfs
+
+- Initialize a git repository or go to directory of existing git repo
+	- Run the following commands
+	- git init //(skip step if existing git repo)
+	- git lfs track "*.psd" 
+		-"" indicate type of file you wish to do things with
+	- git add .gitattributes
+	- git commit -m "track *.psd files using Git LFS"
+
+- Pull from https://github.com/mmihaltz/word2vec-GoogleNews-vectors from inside of your git repo
+	- git-lfs pull https://github.com/mmihaltz/word2vec-GoogleNews-vectors.git
+	- Move 'GoogleNews-vectors-negative300.bin.gz' into your working directory
+
+	- unzip using 
+
+[Metamap]
+- Go to https://metamap.nlm.nih.gov/MainDownload.shtml
+	- Make sure to have signed in with your UMLS account/license
+- Download MetaMap 2016v2 Linux Version (64-bit - Bzip2 Tar - 2.69 GB)
+- Unzip file in working directory
+	- sudo apt install bzip2
+	- bunzip2 -c public_mm_linux_main_2016v2.tar.bz2 | tar xvf -
+
+- Next install java and java JRE to finish metamap installation instructions
+	- sudo apt install default-jre {if which java returns nothing}
+- Download Metamap Binary-only 2016 Update from https://metamap.nlm.nih.gov/BinaryDownload.shtml
+	into your working directory 
+- Follow instructions at https://metamap.nlm.nih.gov/Installation.shtml
+	- When extracting the Binary file run this command instead
+	- tar xvf public_mm_linux_binary_2016.tar 
+- Download pymetamap zip/ or clone repo from https://github.com/AnthonyMRios/pymetamap
+	- Move pymetamap file to your working directory	
+	- Install pymetamap 
+	- Run python setup.py install
+
+
+##[Text Classification]##
+Must import these files in your working environment
+pip install sklearn
+pip install matplotlib
+pip install gensim
+pip install py-trees==0.6.5
+
+
+###Next try running pymetamap from python environment first
+- make sure the servers are up and running first
+- make sure pymetamap is properly installed by running python setup.py install properly
+
+
+Starting Metamap servers 
+1. The SKR/Medpost Part-of-Speech Tagger Server
+2. Word Sense Disambiguation (WSD) Server (optional)
+
+./public_mm/bin/skrmedpostctl start
+./public_mm/bin/wsdserverctl start
+
+First, install MetaMap by using the following instructions: https://metamap.nlm.nih.gov/Installation.shtml
+
+Next, pymetamap can be installed using the following command: #must be root 
+
+>>> sudo python setup.py install
+
+Example Usage
+-------------
+
+To start you must create a MetaMap instance from the pymetamap package.
+
+from pymetamap import MetaMap
+#mm = MetaMap.get_instance('/public_mm/bin/metamap16')
+mm = MetaMap.get_instance('/home/tay/Documents/DSA-NIST/NIST_Utils-master/public_mm/bin/metamap16')
+
+sents = ['Heart Attack', 'John had a huge heart attack']
+concepts,error = mm.extract_concepts(sents,[1,2])
+for concept in concepts:
+    print concept
+
+-------- Scratch --------
+Make sure you change the kernel evironment to python 2 when running the jupyter notebook
+
+-> Want to do it differently, these are just notes for comparison to previous implementation
+
+
+
+
+in your environment
+conda install lxml
+conda install tqdm
+
+# Maybe try to add pymetamap to absolute path???
+# try running it in the correct folder 
+
+# Try pulling from the repo with most recent edits
+# try checking version of all of your installs/imports
+
+
+
